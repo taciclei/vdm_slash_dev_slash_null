@@ -16,7 +16,7 @@ Me voilà, assis face à Visual Studio Code, l’éditeur de texte 📄✨, un f
 
 # 🌱 **Version Alpha 0.1 – 1982 : L’année des débuts**
 
-![Image d'un vieux processeur](https://upload.wikimedia.org/wikipedia/commons/3/3d/Intel_80286_8MHz_top.jpg)
+![Image d'un vieux processeur](https://upload.wikimedia.org/wikipedia/commons/a/a2/Intel_C8086.jpg)
 
 > L'année est 1982. Dans les laboratoires d’Intel 🏢, les ingénieurs sont en pleine effervescence autour du futur **processeur i286**. Une petite révolution se prépare pour les systèmes informatiques ! 💾 Mais avant que ce bijou ne fasse son entrée en février, moi, je décide de prendre un peu d’avance…
 
@@ -29,16 +29,12 @@ En janvier, j’arrive un peu comme un bug dans le système 🐞 : *besoin de c�
 
 ---
 
-### 🛠️ **Icônes et Illustrations**
-- 🏢 **Laboratoires Intel** – Le monde de la tech commence à se réveiller, et moi avec lui !
-- 🐣 **Naissance d'un bébé-développeur** – Câlins et biberons avant les lignes de code.
-
-![Image d'un bébé en pyjama avec ordinateur](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bebe_ordinateur.jpg/640px-Bebe_ordinateur.jpg)
+![Image d'un bébé en pyjama avec ordinateur](images/15462.jpg)
 
 ---
 # 🌟 **Version Alpha 0.2 – L'ancêtre 8086 : Le premier de la lignée**
 
-![Image du processeur 8086](https://upload.wikimedia.org/wikipedia/commons/3/3e/Intel_8086_%28white_background%29.jpg)
+![Image du processeur 8086](https://upload.wikimedia.org/wikipedia/commons/a/a2/Intel_C8086.jpg)
 
 Dans le monde des processeurs, il y a des pionniers. Et dans ma lignée, le **8086** était comme le grand-oncle un peu bourru 👴, sans trop de finesse mais efficace. Sorti dans les années 70, il posait les bases : une architecture solide, même si pas de quoi rêver.  
 
@@ -51,7 +47,7 @@ Imaginez un processeur qui avance lentement, mais sûrement. Pas de multitâche,
 
 # 🚀 **Version Alpha 0.3 – L’oublié 80186 : Un parent déjà dépassé**
 
-![Image du processeur 80186](https://upload.wikimedia.org/wikipedia/commons/7/7c/Intel_i80186.jpg)
+![Image du processeur 80186](https://upload.wikimedia.org/wikipedia/commons/6/62/KL_Intel_i186.jpg)
 
 Arrive ensuite le **80186**, un processeur qui, dès son arrivée, semblait déjà passé de mode. Comme un membre de la famille qu’on évite d’évoquer, il n’a pas marqué l’histoire comme d’autres. Ce **80186** n'a pas su amener de vraies innovations – pas de mode protégé, pas de multitâche.
 
@@ -64,7 +60,7 @@ Si le 8086 pouvait au moins prétendre être le début d’une révolution, le 8
 
 # 🔥 **Version Alpha 0.4 – Le i286 : Une révolution (presque) comme moi**
 
-![Image du processeur i286](https://upload.wikimedia.org/wikipedia/commons/1/18/Intel_80286.jpg)
+![Image du processeur i286](images/KL_Intel_i286.jpg)
 
 En 1982, Intel lance enfin un processeur prêt à tout changer : le **i286**. Ce petit bijou, capable de gérer jusqu’à 16 Mo de mémoire, amène avec lui une innovation majeure, le **mode protégé** 🛡️. C’est le début des véritables protections de système, évitant les plantages et offrant une stabilité incroyable pour l’époque.
 
@@ -77,7 +73,7 @@ Là où le 8086 faisait le minimum et le 80186 se perdait en route, le **i286** 
 
 # 🏗️ **Version Alpha 0.5 – Un bond technologique vs. un nouveau-né**
 
-![Image d'un bébé avec un ordinateur jouet](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Baby_with_toy_laptop.jpg/640px-Baby_with_toy_laptop.jpg)
+![Image d'un bébé avec un ordinateur jouet](images/15462.jpg)
 
 Le i286 s’installe et devient un incontournable des années 80, marquant les premiers vrais pas vers une informatique plus stable et plus fiable. Pendant ce temps, de mon côté, j’avance aussi, pas à pas, trouvant mon rythme. Ce n’est pas encore le multitâche, mais ça commence à venir ! 😉
 
@@ -86,18 +82,30 @@ Tout comme le i286 évolue, je commence moi aussi à interagir un peu plus avec 
 
 > 💡 *Si le i286 se bâtit une réputation, moi, je construis doucement la mienne, prêt à devenir une version plus stable de moi-même avec les années.*
 
+# 🌍 **Version Alpha 0.6 – 1985 : L’arrivée du i386 et des premiers pas… loin de chez moi**
 
-## Version Alpha 0.6 – 1985 : L’arrivée du i386 et des premiers pas… loin de chez moi
+![Image du processeur Intel i386](https://cdn.cpu-world.com/CPUs/80386/L_Intel-NG80386SX-25%20(SAMPLE).jpg)
 
-Nous sommes en 1985, et voilà qu’Intel lance un nouveau processeur : le i386. Ce n’est plus une simple mise à jour, c’est une véritable avancée ! On parle de 32 bits, d’un espace d’adressage qui atteint des hauteurs inégalées. En gros, là où le i286 jouait encore à se débrouiller avec des limitations, le i386, lui, arrive avec des ambitions de grand. Pour l’époque, il est brillant, multitâche, capable de gérer des opérations bien plus complexes.
+En 1985, Intel lance le **i386**, un processeur qui va véritablement révolutionner l’informatique avec une architecture **32 bits** et un espace d’adressage bien plus grand 🌌. Là où le i286 atteignait ses limites, le i386 ouvre de nouvelles portes : il gère mieux le multitâche et est prêt pour des applications plus complexes. 
 
-Et pendant que ce super-processeur fait ses premiers tours dans les salles de serveurs, moi aussi, je fais mes premiers pas… mais loin, très loin de chez moi. Mes premiers pas, je les fais dans une autre région, la Guyenne française. Née au Brésil, me voilà dans un environnement bien différent, bien plus “évolué” à certains égards. Là où mes premières années ont été plutôt simples, ici, je découvre une vie nouvelle, plus organisée, un peu comme si le i386 venait tout changer en passant d’un monde de limitation à un univers de possibilités.
+### 🌎 **Moi aussi, je change de monde**
+Cette année-là, tout comme le i386 s’étend vers de nouveaux horizons, moi aussi je fais mes **premiers pas loin de chez moi**. Mon univers s’agrandit. Né au Brésil, je découvre la Guyenne française, un environnement bien différent, où tout semble plus évolué, un peu comme si le **i386 remplaçait le i286** dans un PC. 🌐
 
-## Version Alpha 0.7 – Le i386 : comme un beau-père évolué et bienveillant
+> 🛠️ *Tout autour de moi devient plus structuré. Là où j’étais un simple explorateur, je commence à découvrir un monde aux possibilités infinies.*
 
-Alors, si je devais personnifier ce fameux i386, je dirais qu’il avait des airs de “beau-père” dans ma vie. Bien plus évolué que mon “père” le 80186, et surtout plus efficace, avec un côté multitâche qui ne laisse personne indifférent. Là où le 80186 n’avait pas grand-chose à offrir en termes de performances, le 386, lui, arrive en véritable pilier. Un peu comme si, dans la vie réelle, on rencontrait cette figure bienveillante qui nous pousse à aller plus loin, tout en étant solide et fiable.
+---
 
-Ce “beau-père” imaginaire, version i386, travaillait dans le bâtiment, un domaine où on construit du solide, du durable, des choses utiles pour tout le monde. Il avait une entreprise où chacun avait un rôle précis, une équipe qui savait ce qu’elle faisait, et il supervisait le tout avec une vraie vision. Ce processeur-là, avec sa structure et son efficacité, c’était comme un modèle à suivre. On pourrait même dire qu’il avait cette touche “émotionnelle”, cette capacité à comprendre qu’on ne peut pas tout faire seul, qu’il faut savoir bien s’entourer pour construire quelque chose de grand.
+# 🏢 **Version Alpha 0.7 – Le i386 : comme un beau-père évolué et bienveillant**
+
+![Illustration d'une famille avec un père bienveillant](images/young-family-with-their-sons-home-having-fun.jpg)
+
+Si je devais imaginer le **i386** comme une figure humaine, ce serait comme un **beau-père solide et fiable**. Bien plus avancé que ses prédécesseurs, il n’est plus un simple processeur, mais un véritable **pilier pour les systèmes informatiques** de l’époque. 
+
+### 🤝 **Un soutien bienveillant**
+Dans ma vie, cette époque me fait penser à mon beau-père, lui aussi un modèle de stabilité. Avec son entreprise dans le bâtiment, il est comme un i386 de la vie réelle, qui sait construire du solide et veiller sur son environnement. Là où le 80186 n’avait pas laissé d’empreinte durable, le i386 – et mon beau-père – posent des bases pour l’avenir.
+
+> 🌱 *Pour moi, le i386, c’est bien plus qu’un composant : c’est un modèle de force, de patience et d’innovation. Et avec mon beau-père, je commence à comprendre l’importance de bien s’entourer pour bâtir quelque chose de grand.*
+
 
 ## Version Alpha 0.8 – Des fondations solides
 
