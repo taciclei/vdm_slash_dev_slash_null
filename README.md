@@ -1,28 +1,91 @@
 # Version Alpha : Genesis
 
 
-## Version Alpha 0.1 – 1982 : L’année des débuts
+# 📘 Introduction : Alpha 0.0.1 – Le Déclencheur
 
-L’année est 1982. Dans les laboratoires d’Intel, ils s’affairent autour d’un projet révolutionnaire : le i286. Mais avant que ce petit bijou ne fasse son entrée officielle en février, moi, j’ai décidé de prendre un peu d’avance. En janvier, me voilà, débarquant prématurément, comme pour dire : “C’est bon, le show peut commencer !”
+### 🌅 **Réveil Inspirant**
+Ce matin, en ouvrant les yeux ☀️, j'ai ressenti une envie soudaine de faire le point, de replonger dans mon parcours de développeur 👨‍💻. Le monde du code est devenu mon quotidien, mais revenir aux origines de cette passion semblait plus que nécessaire. Après tout, chaque ligne de code a une histoire, chaque pixel, une mémoire.
 
-Sauf que, soyons honnêtes, j’étais loin d’avoir l’impact d’un processeur flambant neuf. Là où le i286 était attendu par tous les ingénieurs, j’arrivais un peu comme un bug dans le système, demandant des câlins et des biberons à la place de la mémoire étendue. Si le i286 allait faire ses débuts en puissance quelques semaines plus tard, moi, je débutais en version “bêta”, prêt à faire mes premiers tests de pleurs et de sommeil intensif.
-## Version Alpha 0.2 – L’ancêtre 8086 : Le premier de la lignée
+### 🎉 **Commencement**
+Je me dis alors, pourquoi ne pas revenir *au tout début*, là où tout a commencé ? Pourquoi ne pas partager cette aventure depuis mes premiers instants, comme on débugge un programme en remontant à la source ? Ainsi, cette **Version Alpha** de mon histoire est née, prête à être codée.
 
-Pour comprendre ce qui rend le i286 si spécial, il faut remonter à son grand-père, le 8086. Celui-là, c’était un vrai costaud des années 70, un pionnier certes, mais plutôt basique. Imaginez un vieux routier de la tech, une architecture simple et brute, pas du tout sophistiquée. Pas de mémoire étendue, pas de gestion avancée… c’était un processeur qui faisait une chose à la fois, et encore, lentement mais sûrement, comme un oncle un peu bourru qui met une heure à sortir une blague. Bref, un début, mais pas vraiment de quoi rêver.
+### 🖥️ **Outils en main**
+Me voilà, assis face à Visual Studio Code, l’éditeur de texte 📄✨, un fond noir avec ses lignes colorées. Un bon café ☕, et les doigts posés sur le clavier ⌨️. Ce sera mon histoire, écrite ligne par ligne, de façon aussi logique que poétique, comme un projet de code personnel, mais… *humain*.
 
-## Version Alpha 0.3 – L’oublié 80186 : Le père dépassé
+---
 
-Et puis, arrive le 80186, le père du i286… enfin, “père”, c’est vite dit ! Ce 80186 est un peu comme le parent qu’on préfère ne pas trop évoquer. À peine sur le marché, il paraît déjà dépassé. Une architecture simpliste, pas d’avancée spectaculaire, et surtout aucune capacité pour gérer de la mémoire étendue. En gros, là où le 8086 donnait le ton, le 80186 ne fait que suivre sans vraiment innover. C’était un processeur d’appoint, un figurant dans le grand théâtre de la micro-informatique. Si le 286 allait bientôt faire des acrobaties, le 186, lui, marchait tout droit sans trop regarder autour.
+# 🌱 **Version Alpha 0.1 – 1982 : L’année des débuts**
 
-## Version Alpha 0.4 – Le i286 : Une révolution (presque) comme moi
+![Image d'un vieux processeur](https://upload.wikimedia.org/wikipedia/commons/3/3d/Intel_80286_8MHz_top.jpg)
 
-Alors, en 1982, débarque enfin le i286, le processeur qui va tout changer. Ce petit bijou peut adresser jusqu’à 16 Mo de mémoire – une vraie révolution pour l’époque ! Et il sait aussi jouer en “mode protégé”, ce qui permet d’éviter des plantages sauvages en protégeant ses opérations. En gros, là où les processeurs précédents roulaient sans ceinture, lui, il se met des protections partout. Il a le sens de la sécurité et, à son arrivée, on le voit comme un véritable super-héros des circuits imprimés.
+> L'année est 1982. Dans les laboratoires d’Intel 🏢, les ingénieurs sont en pleine effervescence autour du futur **processeur i286**. Une petite révolution se prépare pour les systèmes informatiques ! 💾 Mais avant que ce bijou ne fasse son entrée en février, moi, je décide de prendre un peu d’avance…
 
-Moi, de mon côté, je ne suis pas encore à ce niveau-là. Mes performances se limitent à réclamer du lait et me rendormir. En matière de “multitâche”, je suis encore loin de l’i286 ! Lui, il fait sensation dans les bureaux des ingénieurs ; moi, je passe de bras en bras, pas toujours impressionnant, mais bon, chacun son écosystème, non ?
+### 👶 **Un "Processeur" en Mode Test**
+En janvier, j’arrive un peu comme un bug dans le système 🐞 : *besoin de câlins, de biberons, mais surtout pas de mémoire étendue !* Si le i286 allait faire sensation en février, moi, j’étais encore en **version bêta**, en test. Ma contribution ? Mes premiers *crash tests* de pleurs et de sommeil intensif 😴.
 
-## Version Alpha 0.5 – La comparaison : Un bond technologique vs. un nouveau-né
+---
 
-Et si on y pense bien, l’i286 et moi, on a encore quelque chose en commun : comme lui, je n’ai pas eu le droit de connaître mon père. Lui, ce fameux 80186 d’une autre époque, avec ses limitations d’antan, et moi, avec mon propre passé. Mais là où il surpasse sa lignée et devient une star technologique, moi, je prends mon temps, tranquillement, pour trouver mon propre rythme. En somme, 1982, c’est l’année où tout commence : un processeur fait ses débuts en calcul et moi, je commence à explorer le monde… à ma manière.
+> 🎨 *À l’image du i286, je fais mon entrée dans le monde, prêt à me déployer, petit à petit, avec une architecture qui ne demande qu’à évoluer.*
+
+---
+
+### 🛠️ **Icônes et Illustrations**
+- 🏢 **Laboratoires Intel** – Le monde de la tech commence à se réveiller, et moi avec lui !
+- 🐣 **Naissance d'un bébé-développeur** – Câlins et biberons avant les lignes de code.
+
+![Image d'un bébé en pyjama avec ordinateur](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bebe_ordinateur.jpg/640px-Bebe_ordinateur.jpg)
+
+---
+# 🌟 **Version Alpha 0.2 – L'ancêtre 8086 : Le premier de la lignée**
+
+![Image du processeur 8086](https://upload.wikimedia.org/wikipedia/commons/3/3e/Intel_8086_%28white_background%29.jpg)
+
+Dans le monde des processeurs, il y a des pionniers. Et dans ma lignée, le **8086** était comme le grand-oncle un peu bourru 👴, sans trop de finesse mais efficace. Sorti dans les années 70, il posait les bases : une architecture solide, même si pas de quoi rêver.  
+
+### ⚙️ **Un vieux routier de la tech**
+Imaginez un processeur qui avance lentement, mais sûrement. Pas de multitâche, pas de mémoire étendue – juste du basique. Et pendant que le 8086 avançait avec détermination, moi, bébé du début des années 80, je faisais mes premiers essais, apprenant encore à pleurer et à manger. 👶🍶
+
+> 📜 *En quelque sorte, je suis l’héritier de cet ancêtre : moi aussi, j’allais commencer simple avant de viser plus haut.*
+
+---
+
+# 🚀 **Version Alpha 0.3 – L’oublié 80186 : Un parent déjà dépassé**
+
+![Image du processeur 80186](https://upload.wikimedia.org/wikipedia/commons/7/7c/Intel_i80186.jpg)
+
+Arrive ensuite le **80186**, un processeur qui, dès son arrivée, semblait déjà passé de mode. Comme un membre de la famille qu’on évite d’évoquer, il n’a pas marqué l’histoire comme d’autres. Ce **80186** n'a pas su amener de vraies innovations – pas de mode protégé, pas de multitâche.
+
+### 💤 **Un processeur sans éclat**
+Si le 8086 pouvait au moins prétendre être le début d’une révolution, le 80186, lui, n’a fait que passer. C’était un peu comme ce bébé qui ne dort pas bien, qui mange quand il veut : il est là, mais rien d’exceptionnel pour l’instant 😴.
+
+> 🎩 *Chaque lignée a son maillon faible, et le 80186 en fait partie. Heureusement, d'autres versions allaient vite apporter le turbo !*
+
+---
+
+# 🔥 **Version Alpha 0.4 – Le i286 : Une révolution (presque) comme moi**
+
+![Image du processeur i286](https://upload.wikimedia.org/wikipedia/commons/1/18/Intel_80286.jpg)
+
+En 1982, Intel lance enfin un processeur prêt à tout changer : le **i286**. Ce petit bijou, capable de gérer jusqu’à 16 Mo de mémoire, amène avec lui une innovation majeure, le **mode protégé** 🛡️. C’est le début des véritables protections de système, évitant les plantages et offrant une stabilité incroyable pour l’époque.
+
+### 🛡️ **Le Super-Héros des circuits**
+Là où le 8086 faisait le minimum et le 80186 se perdait en route, le **i286** est une vraie étoile. Tout comme moi qui découvre mon petit monde, ce processeur explore ses capacités avec assurance. Pendant que le **i286** fait sensation, moi, je teste mes premiers pas et mes premiers sourires, en mode *bêta*.
+
+> 💾 *Le i286 posait des bases solides, et moi, je commençais à me familiariser avec ce monde, prêt à expérimenter mes premières aventures.*
+
+---
+
+# 🏗️ **Version Alpha 0.5 – Un bond technologique vs. un nouveau-né**
+
+![Image d'un bébé avec un ordinateur jouet](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Baby_with_toy_laptop.jpg/640px-Baby_with_toy_laptop.jpg)
+
+Le i286 s’installe et devient un incontournable des années 80, marquant les premiers vrais pas vers une informatique plus stable et plus fiable. Pendant ce temps, de mon côté, j’avance aussi, pas à pas, trouvant mon rythme. Ce n’est pas encore le multitâche, mais ça commence à venir ! 😉
+
+### 👣 **Mon Alpha Version**
+Tout comme le i286 évolue, je commence moi aussi à interagir un peu plus avec ce qui m’entoure. Pas encore d’écrans et de clavier, mais je capte les sons, les visages, et les voix familières autour de moi. On pourrait dire que j’ajoute mes premières fonctions au programme ! 
+
+> 💡 *Si le i286 se bâtit une réputation, moi, je construis doucement la mienne, prêt à devenir une version plus stable de moi-même avec les années.*
+
 
 ## Version Alpha 0.6 – 1985 : L’arrivée du i386 et des premiers pas… loin de chez moi
 
