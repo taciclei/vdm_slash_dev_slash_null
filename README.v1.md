@@ -34,3 +34,5 @@ On pensait avoir gagné. Mais il y avait un léger souci. Notre moteur de recher
 ## Version 1.7 – Dernier acte : l’entrée en scène de Google Maps
 
 Pas grave ! On a optimisé tout ça, et j’ai même tout recodé en ActionScript (oui, le langage de Flash). Parce que Flash, c’était l’outil qui te permettait de faire des animations de folie, bien avant Canva. Bref, on n’a jamais eu de financement pour notre projet… on est en France, après tout. Et six mois plus tard, Google Maps débarque. Rideau.
+
+[Accéder a la V2](README.v2.md)

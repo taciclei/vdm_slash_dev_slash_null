@@ -64,3 +64,5 @@ Arrive le réveillon, et là… catastrophe. Niveau bouffe ? Rien à se mettre s
 ## Version 2.11 – Le mystère de la deuxième chaussette
 
 Pour être honnête, je ne me souviens même pas de tout ce qui s’est passé ce soir-là. Peut-être qu’il avait vraiment mis quelque chose dans ma bière. Une chose est sûre, même des années après, je ne m’explique pas cette idée folle d’inviter ma copine et mon ex dans la même soirée. C’est un mystère à la “deuxième chaussette” : celle qui disparaît toujours, sans explication.
+
+[Accéder a la V3](README.v3.md)

@@ -186,3 +186,5 @@ Et à cet instant, la seule chose qui me restait, c’était l’irréversible. 
 Après ce jour, rien ne semblait possible. Mon esprit était figé dans ce moment, comme si mon système d’exploitation interne s’était écrasé, incapable de redémarrer. Je ne savais pas comment continuer, ni même si j’en avais la force. Comment redémarrer après un bug aussi profond, une perte qui laisse une faille irréparable ?
 
 Et pourtant, quelque part en moi, un instinct de survie me poussait à trouver un moyen de rebooter, de repartir, même avec cette version de moi brisée. J’étais obligé de continuer, de chercher la force de reconstruire une version “majeure” de moi-même, une mise à jour qui intégrerait cette douleur et ce manque, comme un module permanent. Ce n’était pas un choix ; c’était une nécessité.
+
+[Accéder a la V1](README.beta.md)
