@@ -1,68 +1,77 @@
-# Version 2 – Je ne vois plus que d’un œil
+# Version 2 – Débarquement d’un Brésilien Normand à Paris
 
+## Version 2.1 – La proposition du siècle (ou presque)
 
+Leborgne débarque un jour avec une offre :  
+> “Ça te dirait de bosser pour un de mes clients à Paris ?”  
 
-## Version 2.1 – Rencontre avec un “client atypique”
+L’idée semble intéressante. En plus, il me propose de bosser depuis chez moi à Rouen avec un revenu fixe. J’accepte sans trop réfléchir. Mais je commence à réaliser que ce mec va devenir mon supérieur. Lui, qui raconte des conneries à longueur de journée et qui est aussi compétent en dev qu’un presse-agrumes en cybersécurité.  
+Il me sort des trucs du genre :  
+> “J’ai patché le noyau de Linux, les mecs étaient verts !”  
+Ah oui, carrément…
 
-Un soir, mon pote PM27 me branche avec une de ses connaissances qui a besoin de développement. Il me prévient : “Fais gaffe, il est atypique, mais pas méchant.” Bon, moi, ça m’intrigue. Vers minuit, le type débarque sur IRC (oui, déjà rétro à l’époque où Caramail et Skyblog faisaient fureur).
+## Version 2.2 – Premier voyage à Paris : le PDG me fait de l’œil
 
-Premier message classique : “ASV ?” (c’est vrai que c’était plus pour draguer, mais bon, on fait avec). Et là, il me lâche le défi : “J’ai besoin d’intégrer un design Flash dans SPIP.” Ah oui, rien que ça. Je dis ok, j’aime le challenge.
+Dans le contrat, je dois venir une fois par mois bosser à Paris chez le client. Tranquille, je me dis. Sauf que dès la première visite, le PDG s’entiche de moi :  
+> “Ça avance vite avec toi ! Je comprends tout quand tu parles technique, avec ton chef de projet, c’est du chinois !”  
+(Bon, je pige pas non plus toujours ses explications…). Il finit par me proposer de rester sur place pour finir le taf plus rapidement : hôtel offert. Je lui explique que je n’ai pas de vêtements pour tout le week-end. Lui, pas gêné :  
+> “Je te paie tout, c’est un détail.”  
+Intérieurement, je pense : *Fuis, Taz, fuis pauvre fou.* Mais j’accepte.
 
-## Version 2.2 – L’arrivée en bateau sur roues
+## Version 2.3 – Vie d’appart avec Le Borgne : L’odeur de clope en open space
 
-Il arrive pour me chercher dans un vieux tank américain, trois mètres de long, intérieur façon canapé. Le style, on y est ! Nous voilà partis vers sa “startup”, mais pas sans un petit détour par l’épicerie pour choper un pack de 24 Leffe. La soirée s’annonce productive… ou pas.
+Erreur monumentale. Me voilà coincé dans un vieux bureau/appart à Paris, en coloc avec Le Borgne. Ce type passe son temps à fumer et boire tout en travaillant, me soûle avec ses histoires absurdes alors que j’essaie de coder. En prime, il veut qu’on déjeune au resto ensemble chaque jour ! Deux semaines plus tard, le PDG me propose de m’installer définitivement à Paris avec un appart payé, un doublement de salaire, et 500 euros de notes de frais par mois. Bon, ok, j’accepte.
 
-Quand on arrive enfin dans son “bureau” (en fait, un vieil appart plein de serveurs avec des cassettes de sauvegarde d’un autre siècle), le mec est direct. Il prend une bière dans une main, l’ouvre avec l’autre et m’en passe une. Et là, je me dis : ok, c’est pas une startup, c’est un bar déguisé en boîte tech.
+## Version 2.4 – La réalité de la vie parisienne : saumon grillé et réputation de caverne
 
-## Version 2.3 – Les squelettes SPIP, Flash, et une pincée de CSS
+L’appart est top, en plein Bastille (bon, presque boulevard Voltaire), mais j’ai dû laisser ma copine à Rouen. En plus, Le Borgne n’a rien trouvé de mieux que de dire au PDG que les développeurs aiment rester chez eux en pyjama devant leurs écrans, sans douche et avec des pizzas à volonté. Le PDG finit par comprendre que je préfère les douches quotidiennes et le saumon grillé. Mais Le Borgne continue ses absurdités…
 
-Je me plonge dans les fichiers Flash. Honnêtement, le menu est beau, ça mérite de l’attention. Et SPIP, c’était le must des CMS français à l’époque, surtout pour les mairies et les administrations (ouais, nos grands projets d’État).
+## Version 2.5 – Les commerciaux de l’apéro
 
-Rapidement, je repense à mes longues nuits blanches à jouer avec Photoshop et ses calques. Alors je me lance dans un coup de CSS bien pensé : j’utilise l’index en négatif pour faire passer le contenu dynamique en arrière-plan. En 30 minutes, l’intégration est terminée. Le client est ravi… ou juste déjà bien éméché.
+Dans cette boîte, c’est la folie. Les commerciaux ? Ils bossent le matin, partent au resto à midi, et enchaînent avec l’apéro. Un seul bosse l’après-midi : **Anto** – grâce à moi ! J’ai automatisé les mises à jour des annonces sur leurs portails. Ils ont tous une voiture de fonction floquée du logo de la boîte mais préfèrent les scooters (permis suspendus ou efficacité parisienne, au choix).
 
-## Version 2.4 – L’ivresse de la réussite (et des bières)
+Avec le temps, la boîte explose son chiffre d’affaires de 900 %. Une startup qui marche : check.
 
-La facture ? 500 euros. Le mec est tellement content qu’il en rigole, ou alors c’est l’effet des bières. Et là, il lâche : “Ça fait un mois que mes ingés essaient de faire ça sans y arriver.” Ça me rassure sur la valeur de mon boulot.
+## Version 2.6 – Changement de chef, nouvelle déception
 
-Sauf qu’une fois la tâche terminée, impossible de refuser les bières suivantes. À chaque fois qu’il finit la sienne, il m’en file une autre, façon défi ou test de respect (allez savoir). Le jour se lève, on est complètement explosés, quand son équipe débarque.
+Le PDG finit par ne plus supporter Le Borgne non plus et me trouve un nouveau chef, en me lâchant au passage :  
+> “T’as les fesses encore trop roses pour un poste de direction.”  
+(oui, il a des expressions de son enfance en Aveyron). Mon nouveau N+1 ? Un “expert” en SEO.
 
-## Version 2.5 – Le chèque, l’ingé jaloux et les histoires de hacker
+## Version 2.7 – La tentative d’externalisation au Maroc
 
-Lui, toujours fier comme un coq, montre mon boulot à ses ingés en disant : “Taz76 a fait ça en une demi-heure.” Puis il dit à l’un d’eux : “Fais-lui son chèque de 500 euros.” Le pauvre ingé râle : “Sérieux, 500 euros pour une demi-heure de taf ?” Et là, le client répond : “Tu as eu un mois pour le faire, tu l’aurais fait, les 500 euros étaient pour toi.” L’ingé n’a plus rien dit.
+Dès son arrivée, ce nouveau chef décrète que je coûte trop cher et décide de refaire tout mon travail au Maroc pour 12 000 euros. Il part avec son équipe, le PDG commence à me parler comme à un chien. Envie de bosser ailleurs ? Oui. Je trouve la boîte de mes rêves et pose ma démission… que le PDG refuse ! *Quoi ?* Je me dis qu’il attendra que l’équipe marocaine finisse pour me virer. Donc, j’opte pour un abandon de poste, en espérant qu’il cède.
 
-Le plus dur dans cette histoire ? Supporter ses récits interminables sur ses exploits de “hacker”. Apparemment, il avait l’habitude d’écouter les communications du Minitel avec son Walkman. On a tous eu un pote qui embellit un peu trop ses histoires, mais là, c’était du haut niveau.
+## Version 2.8 – L’appart de secours : la galère immobilière
 
-## Version 2.6 – Retour à la réalité
+À ce moment-là, je galère pour trouver un appart. Entre les visites de taudis où dix personnes se battent pour un studio, je commence à me dire que je vais finir sous les ponts. Twist : le PDG (alias *Lemoisi12*) me propose de m’héberger dans un de ses apparts meublés. Me voilà donc dans un appart de 200 m² avec une vue sur Paris, gracieusement prêté par le boss.
 
-À la fin de cette nuit improbable, il me dépose enfin chez moi avec son épave sur roues, gueule de bois garantie. J’ai l’impression d’avoir passé la soirée dans une dimension parallèle où startup, tech, et bières se confondent. Mais bon, le job est fait, le chèque encaissé, et j’ai une nouvelle histoire pour enrichir mon palmarès de dev.
+## Version 2.9 – Spider-Cochon et la soirée de l’année
 
-## Version 2.7 – L’appel de minuit et le coffre au trésor
+Un soir, j’invite **Macumba**, **Anto**, et **Viager75**. L’appart est juste au-dessus de la station Saint-Ambroise. À un moment, je me retrouve la tête en bas, porté par Viager75 en mode *Spider-Cochon* (la référence Simpson). Côté musique, je balance mes enceintes avec l’iPhone 3G en guise de DJ. Pendant que mes collègues roulent en Gold et Black Cards, moi, je décide de passer à autre chose.
 
-Un jour, vers la fin de l’année, il me sonne encore à minuit (visiblement son heure fétiche). Son message ? “Ça te dit du champagne ? J’ai le coffre rempli de caisses !” Intrigué, je réponds. Et là, il m’invite chez un autre pote à lui : BelaDu93. Non, on parle pas d’un perso de Twilight, mais d’un prof un peu atypique, chauve, rebeu, et incollable en géo (le gars connaît toutes les capitales du monde). Mais bon, Bela, on en reparlera plus tard…
+## Version 2.10 – La chasse à la carte Gold
 
-Quand il arrive, il débarque effectivement avec le coffre de sa bagnole bourré de caisses de champagne. Et là, la soirée commence : moi, BelaDu93, ma cousine Antgirl, ma copine Sekura, et un autre pote, ChicleteComBanana. Une vraie équipe de choc. La nuit passe en mode marathon à descendre du champagne, comme si c’était de l’eau.
+Realisation : ma Visa Electron de La Poste fait tache. Je file à la BNP et demande :  
+> “Je veux une carte qui brille, ça coûte combien ?”  
+Le conseiller, hilare :  
+> “Pas de souci, on vous offre la Gold.”  
+Enfin la Gold ! Bye-bye les cartes basiques.
 
+## Version 2.11 – Retour de flamme : le formulaire surprise
 
-## Version 2.8 – Une mission improbable pour la FDJ
+Surprise : l’équipe de la boîte livre enfin le “formulaire d’étude” que j’avais codé en un week-end. Mon système permettait de publier les annonces automatiquement, de générer des documents, et même des cartes de visite. Le boss, impressionné, finit par virer le N+0. Un jour, il me surprend en pleine fête avec la team commerciale : Anto, Viager75, Macumba… une vraie brochette de fêtards.
 
-Le lendemain (ou plutôt l’après-midi, vu l’heure de réveil), il m’appelle à nouveau. Cette fois, direction chez lui, dans un quartier chic. Son appart ? Un espace vide, avec seulement deux chaises, aussi blanches que son teint post-cuite. Là, je le trouve perché sur un escabeau, en train de peindre un ciel bleu au plafond. Et le pire ? Il est doué ! Je me demande si ce mec fait autre chose que picoler et inventer des projets fous.
+## Version 2.12 – Le pot de départ surprise (ou pas)
 
-Il m’explique qu’il a un nouveau “gros” client pour moi : la Française des Jeux (FDJ) à Rouen. Mission ? Faire l’inventaire de tous les équipements informatiques de l’entreprise. Je dois ouvrir chaque PC et noter la RAM, le disque dur, la carte mère, l’écran… Un truc titanesque à faire en une journée. Il me supplie : “Sauve-moi sur ce coup, c’est un gros client !”
+Lemoisi12 me convoque. Dans ma tête, je suis sûr : c’est mon pot de départ. À la place, il me demande de “documenter les bases de données” pour le remplaçant. Je me retiens de rire : il croit sérieusement que je vais lui offrir un cadeau d’adieu ? Donc, je griffonne des trucs vagues et termine avec un : “Débrouillez-vous.” Mentalement, j’ai déjà un pied dehors.
 
-Pas de souci, je dégaine le logiciel MaConfig, un outil que j’utilise pour mettre à jour les drivers sur mes machines. En une heure, j’ai scanné et exporté toutes les infos sur chaque bécane en fichiers texte. Easy. Lui, il hallucine : “T’es vraiment un as !” En réalité, j’ai juste le bon logiciel sous la main… et un peu de débrouillardise.
+## Version 2.13 – L’œuvre d’art de Taz76
 
-## Version 2.9 – Le Nouvel An chez le “gourou” de la tech (ou pas)
+Quelques mois plus tard, je repasse à la boîte. Vision mémorable : toutes les tables de la base collées au mur en mode galerie d’art… avec mes gribouillages en guise de “documentation”. C’est un hommage involontaire aux relations de données chaotiques. Une œuvre d’art à ma façon.
 
-Sur le chemin du retour, il m’invite à fêter le Nouvel An chez lui avec ses “amis”. D’après lui, il y aura à boire et à manger en abondance, pour seulement 50 euros de participation. Et en plus, je peux inviter du monde ! L’offre est tentante.
+---
 
-Arrive le réveillon, et là… catastrophe. Niveau bouffe ? Rien à se mettre sous la dent. Niveau boisson ? Oubliez le champagne du week-end dernier, il n’a plus que quelques bières tièdes en stock. Un festin royal, quoi ! Mais la cerise sur le gâteau, c’est moi qui la fournis : j’ai eu la brillante idée d’inviter Sekura, ma copine actuelle, ET Antibibi, mon ex. Oui, elles sont dans la même soirée, et moi, au milieu, dans un chaos total.
-
-## Version 2.10 – Une explosion de “Me Too” maison
-
-À un moment, ça part en vrille. Sekura et Antibibi (vieux perso de heal sur wow) finissent par se retrouver l’une en face de l’autre, et là… BOOM. Explosion atomique, mode #MeToo activé dans le salon. Les deux me tombent dessus, en mode procès public. Je me demande encore aujourd’hui pourquoi j’ai fait ça.
-
-## Version 2.11 – Le mystère de la deuxième chaussette
-
-Pour être honnête, je ne me souviens même pas de tout ce qui s’est passé ce soir-là. Peut-être qu’il avait vraiment mis quelque chose dans ma bière. Une chose est sûre, même des années après, je ne m’explique pas cette idée folle d’inviter ma copine et mon ex dans la même soirée. C’est un mystère à la “deuxième chaussette” : celle qui disparaît toujours, sans explication.
-
-[Accéder a la V3](README.v3.md)
+<p align="center">
+  <a href="README.v3.md"><strong>📥 Accéder à la V3 🚀</strong></a>
+</p>

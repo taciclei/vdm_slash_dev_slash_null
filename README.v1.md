@@ -204,6 +204,155 @@ Six mois plus tard, **Google Maps** débarque. Une révolution. Ils avaient tout
 
 Ainsi se termine notre première grande aventure de dev. Avec l’interface télécommande, le recodage en Flash et des heures de travail passionnées, on avait tenté de créer quelque chose d’innovant. Mais parfois, il faut aussi accepter que la technologie avance plus vite que nous.
 
+# 💻 Version 1.8 – Rencontre Nocturne et SPIP x Flash
+
+> "Les rencontres en ligne, c’est souvent inattendu, surtout quand ça commence par un ASV."  
+> Cette fois, mon pote PM27 m’a mis en relation avec un type plutôt… atypique, et ça allait devenir un défi technique intéressant. 🌐🕶️
+
+## 🕹️ La Rencontre sur IRC : Quand “ASV” Lance le Défi
+
+Un soir, **PM27** me branche avec l’une de ses connaissances qui a besoin d’un développeur pour un projet. Avant même de commencer, il me prévient :  
+"Fais gaffe, il est atypique, mais pas méchant."  
+Ça m’intrigue, donc j’accepte. Vers **minuit**, le type débarque sur **IRC** (eh oui, déjà rétro à l’époque, où tout le monde se précipitait sur Caramail et Skyblog). 📟💬
+
+Premier message ? Classique : “**ASV ?**” Oui, c’est plutôt une question pour draguer, mais bon, on fait avec les moyens du bord.
+
+Après les présentations, il en vient enfin à son sujet et me balance le défi :  
+"J’ai besoin d’intégrer un design **Flash** dans **SPIP**." Rien que ça. J’accepte direct – un bon challenge, ça ne se refuse pas.
+
+## 🌐 MONSITEFACILE : Mon Projet d’Accessibilité Numérique
+
+À cette époque, en plus des projets avec PM27, je bossais sur mon propre projet personnel, baptisé **MONSITEFACILE**. C’était sous forme d’**association loi 1981** (oui, du sérieux !), et l’idée était de proposer une plateforme pour **générer des sites facilement**, avec un accent sur **l’accessibilité numérique**. Tous les délires tech de l’époque ! 🛠️
+
+Malheureusement, bien que l’idée ait attiré un peu de monde, le projet n’a jamais vraiment pris son envol. Peut-être que si je ne l’avais pas laissé tomber aussi vite, ça aurait été différent… Mais bon, c’est le genre de choses qu’on réalise avec le recul. 🤔
+
+> "Les idées, ça prend du temps à mûrir. Si j’avais tenu, MONSITEFACILE aurait pu être bien plus." – *Moi, nostalgique du projet avorté*
+
+## ⚡ SPIP et Flash : Une Intégration de l’Impossible
+
+De retour au défi, me voilà embarqué dans l’intégration d’un design Flash dans SPIP. À l’époque, **SPIP** était un CMS connu pour sa flexibilité, mais pas vraiment pour sa compatibilité avec des designs en Flash. Ce projet, c’était un véritable casse-tête, mais j’aimais ça.
+
+---
+
+Ainsi débute une nouvelle aventure, faite de rencontres improbables, de projets un peu fous, et de défis techniques. Entre IRC, Flash, SPIP et l’ombre de MONSITEFACILE, cette époque m’a appris que dans le dev, tout est possible… surtout quand ça commence par un ASV. 🚀💻
+# 💸 Version 1.10 – La Facture et le Défi de Respect
+
+> "500 euros pour une demi-heure de taf, ça pique pour certains."  
+> Parfois, ce n’est pas seulement le code qu’il faut maîtriser, mais aussi les défis de bière et les histoires de hackers en herbe. 🍻💻
+
+## 💵 La Facture et la Révélation
+
+La mission accomplie, je présente ma facture : **500 euros**. Le client est tellement content qu’il en rigole, ou alors c’est l’effet des bières. Et là, il lâche :  
+> “Ça fait un mois que mes ingés essaient de faire ça sans y arriver.”  
+Bon, ça me rassure sur la valeur de mon taf.
+
+Mais une fois le boulot terminé, impossible de refuser les bières suivantes. À chaque fois qu’il finit la sienne, il m’en file une autre, façon défi de respect (ou de test, allez savoir). Le jour se lève, on est complètement explosés, quand son équipe débarque pour prendre le relais. 🌅🍺
+
+## 😅 La Petite Leçon de 500 Euros
+
+Fier comme un coq, le client montre mon travail à ses ingénieurs et balance :  
+> “Taz76 a fait ça en une demi-heure.”  
+Puis il ordonne à l’un d’eux : “Fais-lui son chèque de 500 euros.”
+
+L’ingénieur râle un peu, évidemment :  
+> “Sérieux, 500 euros pour une demi-heure de taf ?”  
+Et là, le client rétorque, sans détour :  
+> “Tu as eu un mois pour le faire, tu l’aurais fait, les 500 euros étaient pour toi.”  
+Plus rien à dire, l’ingé capitule.
+
+## 🎧 Les Exploits de “Hacker” et Le Retour à la Réalité
+
+Le plus dur dans cette histoire ? Supporter les récits interminables du client sur ses soi-disant exploits de “hacker”. D’après lui, il avait l’habitude d’**écouter les communications du Minitel avec son Walkman**… Oui, on a tous ce pote qui enjolive ses histoires, mais là, c’était du haut niveau. 🎩📻
+
+À la fin de cette nuit improbable, il me dépose chez moi dans son **épave roulante**, avec une **gueule de bois** garantie pour la journée. J’avais l’impression d’avoir passé la soirée dans une dimension parallèle où startup, tech, et bière se confondent.
+
+Mais bon, le job est fait, le chèque encaissé, et me voilà avec une nouvelle histoire pour enrichir mon palmarès de dev. 🚀💸
+
+# 🍾 Version 1.11 – Luxman, Champagne et Soirée Inoubliable
+
+> "Les rencontres improbables donnent souvent les meilleures histoires."  
+> Cette fois, c’est Luxman, le gars aux mille business étranges, qui m’embarque dans une nuit mémorable, remplie de champagne et de personnages hauts en couleur. 🥂🎉
+
+## 🧛‍♂️ Luxman et Ses Ambitions Surprenantes
+
+Luxman – oui, c’est comme ça qu’il voulait se faire appeler – était un **personnage atypique**. Cheveux longs, dents de travers, et 45 ans bien tassés, il ressemblait un peu à Gollum du Seigneur des Anneaux. 🧙‍♂️ Il jonglait avec mille activités pour se faire de l’argent : revente de matos informatique sur eBay, site en marque blanche pour des jouets… disons, *spécifiques*, destinés aux femmes à chat. Luxman était persuadé qu’il allait devenir riche grâce à ça. 💸
+
+## 🕛 Minuit, Champagne et Nouvelle Soirée
+
+Un soir, vers la fin de l’année, je reçois un appel de Luxman, à minuit, bien sûr (visiblement, son heure fétiche). Son message ?  
+> “Ça te dit du champagne ? J’ai le coffre rempli de caisses !”  
+Intrigué, je réponds, et il chez mon pote : **BelaDu93**.
+
+Non, ce n’est pas un personnage de Twilight, mais un prof un peu atypique, chauve, rebeu, et incollable en géographie – le genre de gars qui connaît toutes les capitales du monde. Mais bon, BelaDu93, on en reparlera plus tard… 🌍🧠
+
+## 🥂 La Soirée Champagne avec l’Équipe de Choc
+
+Quand Luxman arrive, il débarque avec le coffre de sa voiture littéralement rempli de caisses de **champagne**. C’est le début d’une soirée mémorable avec la team : moi, **BelaDu93**, ma cousine **Antgirl**, ma copine **Sekura**, et un autre pote, **ChicleteComBanana**. Une vraie équipe de choc. 🥂
+
+La nuit se transforme en marathon où on descend du champagne comme si c’était de l’eau. On refait le monde, on rigole, et chaque bouteille ouverte nous pousse un peu plus loin dans cette dimension parallèle où amis, famille et champagne se mêlent. 
+
+---
+
+Entre Luxman, son coffre magique, et une nuit où le champagne coule à flots, cette soirée a définitivement marqué les annales de mes rencontres improbables. 🍾✨
+
+# 🎨 Version 1.12 – Le Plafond Bleu, FDJ et MaConfig : Un Projet Titansque
+
+> "Parfois, la débrouillardise et les bons outils font toute la différence."  
+> Cette fois, je me retrouve face à une mission pour la Française des Jeux, mais d’abord… un plafond à la Michel-Ange. 🎨🖌️
+
+## 🖌️ L’Appart Chic et le Ciel Bleu
+
+Le lendemain (ou plutôt l’après-midi, vu l’heure de réveil après la soirée champagne), je reçois à nouveau un appel de Luxman. Direction : **chez lui**, dans un quartier chic. Son appartement ? Un espace presque vide, à part deux chaises blanches… aussi blanches que son teint post-cuite. 😆
+
+Je le trouve perché sur un **escabeau**, en train de peindre un ciel bleu au plafond. Et le pire, c’est qu’il est **vraiment doué** ! Ce mec est plein de surprises, entre ses soirées improbables, ses business étranges, et maintenant, ses talents de fresquiste. Je me demande s’il fait autre chose que picoler et inventer des projets fous.
+
+## 🎲 Mission Française des Jeux : L’Inventaire Titanesque
+
+Entre deux coups de pinceau, il m’explique qu’il a un **“gros” client** pour moi : **la Française des Jeux** (FDJ) à Rouen. La mission ? Faire l’inventaire de **tous les équipements informatiques** de l’entreprise. Je dois ouvrir chaque PC et noter la RAM, le disque dur, la carte mère, l’écran… Un véritable casse-tête à faire en une seule journée ! 😅
+
+Il me supplie :  
+> “Sauve-moi sur ce coup, c’est un gros client !”
+
+Pas de souci. Je sors mon arme secrète : **MaConfig**, un logiciel que j’utilise pour mettre à jour les drivers sur mes machines. En une heure, j’ai scanné et exporté toutes les informations sur chaque bécane en fichiers texte. **Easy**.
+
+Luxman, lui, hallucine :  
+> “T’es vraiment un as !”
+
+En réalité, j’ai juste le bon logiciel sous la main… et un peu de débrouillardise. Parfois, c’est tout ce qu’il faut pour transformer un projet titanesque en une simple formalité. 🎩💻
+
+---
+
+Et voilà, mission accomplie, client impressionné, et une nouvelle aventure dans la poche. Entre ciel bleu, FDJ, et MaConfig, cette journée restera gravée dans mon palmarès de dev. 🚀🖥️
+
+# 💥 Version 1.14 – Sekura, Orkut, et le Réveillon Catastrophe
+
+> "Quand on mêle amour, réseau social obscur, et Nouvel An, on s’expose à des surprises… parfois explosives."  
+> C’est l’histoire de Sekura, d’Orkut, et d’une soirée de réveillon qui tourne au chaos total. 🎉💣
+
+## 💖 Sekura, La Geekette à Demi Assumée
+
+On est en 2004, et c’est l’époque d’**Orkut**, le réseau social de Google, connu essentiellement des **Brésiliens** et des **Indiens** (va savoir pourquoi). C’est sur ce réseau que j’ai rencontré **Sekura** : moitié brésilienne, moitié japonaise, un mélange explosif. Elle était **très jolie, super intelligente**, et avait une personnalité unique : elle riait fort, était joyeuse, et un peu geekette sur les bords, même si elle ne l’assumait pas toujours. 🖤💻
+
+Sekura avait cette capacité rare à captiver l’attention par son charme et son humour. Le genre de personne avec qui on pourrait discuter de tout… jusqu’à ce que le Nouvel An pointe le bout de son nez et que tout parte en vrille.
+
+## 🎉 Le Réveillon Catastrophe : Sekura vs. Antibibi
+
+Sur le chemin du retour, Luxman m’invite à fêter le Nouvel An chez lui avec ses “amis”. D’après lui, il y aura **à boire et à manger en abondance** pour seulement 50 euros de participation. La tentation est trop forte, et en plus, je pouvais **inviter du monde**. Résultat ? Je me retrouve à amener **Sekura, ma copine actuelle, ET Antibibi, mon ex**.
+
+Arrive le réveillon, et là… **catastrophe**. Niveau bouffe ? Rien. Niveau boisson ? Oubliez le champagne du week-end dernier : il ne restait que quelques bières tièdes. Mais la véritable cerise sur le gâteau, c’était bien sûr ma brillante idée d’avoir **invité Sekura et Antibibi dans la même soirée**. 😅
+
+À un moment, tout dérape. Sekura et Antibibi (mon ex, qui avait un vieux perso heal sur WoW) finissent par se retrouver **face à face**. Et là… **BOOM**. Explosion atomique. Les deux se lancent dans un véritable **procès public** en plein salon, mode #MeToo activé. Et moi, au milieu de cette scène de chaos total. ⚖️💥
+
+> "Inviter sa copine et son ex à la même soirée, c’est comme mélanger de la nitroglycérine avec un briquet." – *Moi, repensant à cette décision fatale*
+
+## 🍺 Un Mystère Inexplicable : L’Erreur à la “Deuxième Chaussette”
+
+Pour être honnête, je ne me souviens même pas de tout ce qui s’est passé ce soir-là. Peut-être que Luxman avait glissé quelque chose dans ma bière, qui sait. Une chose est sûre : même des années plus tard, je ne m’explique pas cette idée folle. C’est un peu comme le **mystère de la deuxième chaussette** qui disparaît sans laisser de trace : on ne saura jamais vraiment pourquoi. 🧦🤷‍♂️
+
+---
+
+Ce Nouvel An, avec Sekura, Antibibi, et l’absurdité d’un réveillon sans nourriture, restera un moment inoubliable. Parfois, on fait des choix étranges… et on se retrouve avec des souvenirs, pour le meilleur ou pour le pire. 🎉💔
+
 <p align="center">
   <a href="README.v2.md"><strong>📥 Accéder à la V2 🚀</strong></a>
 </p>
