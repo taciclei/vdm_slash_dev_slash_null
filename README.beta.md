@@ -244,6 +244,63 @@ Après ce jour, mon esprit était figé dans ce moment, comme si mon système d�
 
 > Et pourtant, un instinct de survie me poussait à trouver un moyen de rebooter, de repartir, même avec cette version de moi brisée. *Ce n’était pas un choix ; c’était une nécessité.*
 
+# 🔄 Beta 0.27 – Noël '99 : Dernier Noël Avant l'Apocalypse Y2K 🎅💾
+
+C'était Noël 1999, un an avant le fameux bug de l’an 2000, alias Y2K, qui allait soit mettre le monde à genoux, soit juste provoquer quelques hoquets informatiques. Moi, ado geek, j’avais la tête pleine de magazines informatiques. Pendant que mes potes rêvaient de skateboards et de baskets dernier cri, moi, je rêvais de processeurs, de RAM, et de carte mère. 🖥️
+
+Ce Noël-là, mon beau-père a eu une idée bien calibrée pour mon profil de "nerd en herbe" : au lieu de me donner un cadeau classique, il m’a donné **6000 francs** pour que je m’achète mon propre **PC sur mesure** ! 6000 francs, c’était l’équivalent d’une configuration gaming modeste aujourd’hui, mais à l’époque, c’était comme si j'avais levé un "fonds de développement". 🎉
+
+### 🏃‍♂️ Direction ATIS Group : Le "Chinatown" de Rouen 🏢
+Avec ma liste de composants bien en tête, j'ai couru chez **ATIS Group**, LE magasin tech de Rouen. Pour moi, c’était le **Chinatown de l’informatique** ! Là-bas, derrière chaque comptoir, il y avait des experts, tous chinois, avec une maîtrise quasi mystique du hardware. 🌏
+
+J'étais tellement impressionné par leur savoir-faire que j'ai même osé demander si je pouvais faire mon **stage d’observation** chez eux. Mais le gérant m'a répondu dans un mélange de français et de cantonais incompréhensible. Résultat ? Mystère total… je n'ai jamais su s'il m'avait dit "oui", "non", ou "retourne à tes magazines". 🤷‍♂️
+
+### 🖥️ Mon Pentium MMX et Windows 98 💪
+Avec mes composants en main, j'ai monté ma première machine de guerre : un **Pentium MMX** sous **Windows 98**. Cette bête de course était un monstre pour l’époque ! Et pour pousser encore plus loin, j'avais ajouté un **graveur de CD** — un luxe pour un ado. 
+
+Grâce à mon beau-père, j'avais une tonne de CD remplis de jeux et d'encyclopédies (bon, pas très légaux, chut 🤫). Je me souviens du jeu **F-22** qui me propulsait dans les cieux avec un joystick de pro. Et quand j'avais besoin de plonger dans les profondeurs sombres, **Descent** était là, avec **Nirvana** en fond sonore. Avec ça, je me sentais comme un pilote rockstar des cieux.
+
+### 💸 L’Art d’Économiser Pour Nourrir La Bête
+Mon père me donnait **100 francs pour manger** le midi, mais soyons honnêtes : tout passait dans le matos pour mon PC. Magazines tech, composants, gadgets, j'économisais chaque centime pour nourrir mon obsession technologique. Moins de sandwiches, plus de RAM ! 
+
+### 🔍 Les Mystères Cachés des CD-ROM et l'Innocence de La Redoute
+Les CD-ROM de magazines étaient souvent pleins de surprises, avec des répertoires cachés qui contenaient des… **images interdites aux moins de 16 ans**. Eh oui, à une époque sans Internet, la découverte la plus "coquine" à portée de main, c’était encore le catalogue de **La Redoute** ! 🙈 
+
+---
+
+Bref, cet univers geek, avec mon Pentium ronronnant, mes CD qui tournaient, et moi, ado pilote des cieux, prêt à conquérir le monde numérique, représentait l'époque dorée de mes débuts dans la tech. Ah, le bon vieux temps où chaque pixel comptait et où les répertoires cachés étaient de vraies découvertes. 🌌🖥️
+
+# 🎬 Beta 0.28 – L’Année de Matrix : Ma Révélation "Morpheus" 🕶️🖤
+
+1999, l'année de sortie de **Matrix**. Pour moi, ce film n’était pas seulement un chef-d’œuvre, c'était comme une installation logicielle : il ouvrait tout un univers parallèle ! Contrairement à beaucoup qui se prenaient pour Neo, moi, je me voyais plutôt dans le rôle de **Morpheus**. Ce sage maître de la matrice, avec son manteau noir et sa voix grave… c'était ça, mon "moi intérieur". 🔥
+
+Je suis donc parti acheter un manteau noir, long et classe, pour parfaire mon style "Morpheus". Je marchais avec les mains derrière le dos, l’air concentré, comme si j’étais prêt à guider n’importe qui dans la Matrice. Il fallait bien un peu de style pour traverser cette fin de siècle, où **on puçait les consoles PS1** pour faire tourner des jeux gravés. Évidemment, tout cela, c'était encore un petit secret, chut ! 🤫
+
+### 💿 Le Retour du Rock : Une Nouvelle Quête Musicale
+Depuis des années, j'achetais des **CD de rock**, traquant chaque note que ma sœur TatySlash m’avait fait découvrir sur cette fameuse **K7** remplie de ses morceaux favoris. Mais le lecteur de K7, un vrai vétéran des années 80, avait fini par rendre l’âme, emportant avec lui cette cassette précieuse. La bande s'était déchirée, et j'étais face à une **ERREUR 404 musicale** de taille.
+
+### 🎸 Patience : La Chanson des Années de Quête
+Avec le temps, j'ai réussi à retrouver certains morceaux, dont LA chanson iconique de **Guns N’ Roses**, celle de 7 minutes… **"Patience"**. Cette quête pour récupérer la bande-son de mon adolescence m'avait appris le sens de ce mot. Oui, de la patience, j'en avais eu énormément ! Enfin, cette chanson en boucle sur mon Pentium MMX était comme un `while loop` infini qui symbolisait à la fois le souvenir et la nostalgie. 🎶
+
+---
+
+Cet univers de Matrix, mes CD rock, et moi en Morpheus moderne, c'était le mix parfait pour clore cette décennie. Un mélange de **technologie, de nostalgie, et de style**. Bref, j’étais prêt pour le bug de l’an 2000, ou plutôt, prêt à guider la Matrice dans cette nouvelle ère. 🌌🖤
+
+## 🎓 Beta 0.29 – Passage à l'Âge Adulte : BEPC, Capoeira et Premiers Salaires 🕺⚡
+
+Avec le **BEPC** en poche, c’était la fin de mon aventure au lycée technique, cet endroit où il n'y avait **que des gars** (et des boutons). Pas une fille à l'horizon ! Finies aussi les semaines de stage d’observation chez **Omnibois**, où j’ai touché mon **premier salaire** de **50 francs**. Pas que l'argent m’ait intéressé, mais ce billet avait un goût de “premier dollar”, comme un achievement débloqué dans ma vie. 🏆💵
+
+### 🔜 Nouvelle Version, Nouveaux Défis et Capoeira
+À l’approche de l’an 2000, un **nouveau millénaire** s’annonçait, tout comme pour moi une nouvelle ère. Bientôt, le BEP Électrotechnique allait marquer un tournant dans ma vie, mais avant cela, j’avais découvert une nouvelle passion qui allait m’accompagner : la **capoeira**. J’avais vu le film culte **Only the Strong**, où les mouvements de capoeira défilaient comme un ballet de force et de rythme. Alors, je me suis inscrit aux cours, décidé à maîtriser cet art brésilien avec toute l’énergie que j’avais. 🕺💥
+
+### 👫 De Nouveaux Amis et Les “Fifilles” de Capoeira
+À la capoeira, j’ai aussi fait de **nouveaux copains**. Et la cerise sur le gâteau ? Il y avait des **filles** dans le cours ! Oui, pour moi, c’était une nouveauté incroyable : des conversations, des échanges (ou du moins, leurs tentatives, car mon niveau de "parler aux filles" était en mode `awkward = true`). Mais pour eux, j’étais le **Brésilien** du groupe. Ils imaginaient que j’avais ça "dans la peau", la capoeira et même le foot (même si, pour le foot, j’étais une quiche totale, mais chut, ça reste entre nous). 🙄
+
+### 🎬 Inspiration Capoeira : Un Choix Martial et Musical
+La capoeira m’a donné une nouvelle inspiration, un mélange de rythme, de discipline et de culture. C’était tout ce qu’il me fallait pour m’exprimer, un moyen de connecter ma culture brésilienne et mon envie d’aller de l’avant.
+
+Bref, cette nouvelle ère s’annonçait pleine de changements : du BEPC aux rythmes brésiliens, avec de nouveaux amis et des premiers pas dans le monde mystérieux des conversations avec les filles, je passais au niveau supérieur. Prêt à coder la suite de ma vie en version “sérieuse”. 🌍🛠️
+
 <p align="center">
-  <a href="README.beta.md"><strong>Accéder à la V1 🚀</strong></a>
+  <a href="README.v1.md"><strong>Accéder à la V1 🚀</strong></a>
 </p>

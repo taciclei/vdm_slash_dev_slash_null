@@ -137,7 +137,7 @@ Comme le i386 qui posait les fondations d'un monde digital, je posais mes racine
 ## 🏅 **Version Alpha 0.9 – Une étiquette fièrement collée**
 
 ![Image d'un autocollant Intel Inside](https://upload.wikimedia.org/wikipedia/commons/1/1d/Intel_Inside_Logo_%281991-2006%29.svg)
-![Pride and Recognition](https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif)
+![Pride and Recognition](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmljbjhqYjk2N2F0eWcycnp3ZzF2YjA0eGI4NGR2OHhlOGp3amMzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FKI4SQbwMm9ox858Bq/giphy.gif)
 
 Ah, les années 80… Avec l’arrivée du i386, les fabricants de PC étaient en effervescence. 🖥️ Pour eux, avoir un processeur i386, c’était comme obtenir la distinction suprême en matière de technologie. Ils affichaient leur fierté sans hésitation : un bel autocollant “Intel Inside – i386” collé bien en évidence, tel un sceau de qualité, pour dire au monde entier : "Ici, c’est du sérieux !"
 
