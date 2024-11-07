@@ -8,17 +8,17 @@
 Ce matin, en ouvrant les yeux ☀️, j'ai ressenti une envie soudaine de faire le point, de replonger dans mon parcours de développeur 👨‍💻. Le monde du code est devenu mon quotidien, mais revenir aux origines de cette passion semblait plus que nécessaire. Après tout, chaque ligne de code a une histoire, chaque pixel, une mémoire.
 
 
-![Réveil Inspirant](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRzZmIwdGduY3Z2NGMzNWJ3ZmQ3aHd3OTBobndva2xldmxkZWxndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gJzX17eLpdWADbq/giphy.gif)
+<!-- ![Réveil Inspirant](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRzZmIwdGduY3Z2NGMzNWJ3ZmQ3aHd3OTBobndva2xldmxkZWxndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gJzX17eLpdWADbq/giphy.gif) -->
 
 ### 🎉 **Commencement**
 Je me dis alors, pourquoi ne pas revenir *au tout début*, là où tout a commencé ? Pourquoi ne pas partager cette aventure depuis mes premiers instants, comme on débugge un programme en remontant à la source ? Ainsi, cette **Version Alpha** de mon histoire est née, prête à être codée.
 
-![Back to the Start](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRnNGozMWhsM3c1ZTVtNmVlN3R3MGtpZ3NpenNzMjg2Z2dkeTd3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBzXOrvZ8y5Wro4/giphy.gif)
+<!-- ![Back to the Start](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRnNGozMWhsM3c1ZTVtNmVlN3R3MGtpZ3NpenNzMjg2Z2dkeTd3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBzXOrvZ8y5Wro4/giphy.gif) -->
 
 ### 🖥️ **Outils en main**
 Me voilà, assis face à Visual Studio Code, l’éditeur de texte 📄✨, un fond noir avec ses lignes colorées. Un bon café ☕, et les doigts posés sur le clavier ⌨️. Ce sera mon histoire, écrite ligne par ligne, de façon aussi logique que poétique, comme un projet de code personnel, mais… *humain*.
 
-![Code and Coffee](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+<!-- ![Code and Coffee](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)-->
 
 ---
 
@@ -27,15 +27,15 @@ Me voilà, assis face à Visual Studio Code, l’éditeur de texte 📄✨, un f
 ![Image d'un vieux processeur](https://upload.wikimedia.org/wikipedia/commons/a/a2/Intel_C8086.jpg)
 
 > L'année est 1982. Dans les laboratoires d’Intel 🏢, les ingénieurs sont en pleine effervescence autour du futur **processeur i286**. Une petite révolution se prépare pour les systèmes informatiques ! 💾 Mais avant que ce bijou ne fasse son entrée en février, moi, je décide de prendre un peu d’avance…
-
+<!-- 
 ![Arrival](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JlbThhaTVkM3duMzY5cTUza24xb290M3FhdzF5NDRxOHF0NHNyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tflgRMLhDRzTkgL3ug/giphy.gif)
-
+-->
 ### 👶 **Un "Processeur" en Mode Test**
 En janvier, j’arrive un peu comme un bug dans le système 🐞 : *besoin de câlins, de biberons, mais surtout pas de mémoire étendue !* Si le i286 allait faire sensation en février, moi, j’étais encore en **version bêta**, en test. Ma contribution ? Mes premiers *crash tests* de pleurs et de sommeil intensif 😴.
 
 > 🎨 *À l’image du i286, je fais mon entrée dans le monde, prêt à me déployer, petit à petit, avec une architecture qui ne demande qu’à évoluer.*
-
-![Baby Code](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h1amdwYzc2MTBic3c3ZHQ5cGhwbmpqbHV4aWcxeHRoZ3R2emJ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SAIGPdSohpC7JdRcHT/giphy.gif)
+<!-- 
+![Baby Code](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h1amdwYzc2MTBic3c3ZHQ5cGhwbmpqbHV4aWcxeHRoZ3R2emJ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SAIGPdSohpC7JdRcHT/giphy.gif) -->
 
 ---
 
@@ -44,9 +44,9 @@ En janvier, j’arrive un peu comme un bug dans le système 🐞 : *besoin de c�
 ![Image du processeur 8086](https://upload.wikimedia.org/wikipedia/commons/a/a2/Intel_C8086.jpg)
 
 Dans le monde des processeurs, il y a des pionniers. Et dans ma lignée, le **8086** était comme le grand-oncle un peu bourru 👴, sans trop de finesse mais efficace. Sorti dans les années 70, il posait les bases : une architecture solide, même si pas de quoi rêver.  
-
+<!-- 
 ![Old School](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVuNWwzbmZvaWE3dmc1Y2Z3b3VvcmN5bWw4bXhyMmRpeDN2dWJ2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K3YaSLgPZ9QSnyU/giphy.gif)
-
+-->
 ### ⚙️ **Un vieux routier de la tech**
 Imaginez un processeur qui avance lentement, mais sûrement. Pas de multitâche, pas de mémoire étendue – juste du basique. Et pendant que le 8086 avançait avec détermination, moi, bébé du début des années 80, je faisais mes premiers essais, apprenant encore à pleurer et à manger. 👶🍶
 
@@ -59,8 +59,8 @@ Imaginez un processeur qui avance lentement, mais sûrement. Pas de multitâche,
 ![Image du processeur 80186](https://upload.wikimedia.org/wikipedia/commons/6/62/KL_Intel_i186.jpg)
 
 Arrive ensuite le **80186**, un processeur qui, dès son arrivée, semblait déjà passé de mode. Comme un membre de la famille qu’on évite d’évoquer, il n’a pas marqué l’histoire comme d’autres. Ce **80186** n'a pas su amener de vraies innovations – pas de mode protégé, pas de multitâche.
-
-![Forgettable](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJsajhieWE3aDRjaHNzaDlyYWl3YWJ1OHl6MjJoazE4M29lMGRvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGchNIKWxXcecExy/giphy.gif)
+<!-- 
+![Forgettable](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJsajhieWE3aDRjaHNzaDlyYWl3YWJ1OHl6MjJoazE4M29lMGRvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGchNIKWxXcecExy/giphy.gif) -->
 
 ### 💤 **Un processeur sans éclat**
 Si le 8086 pouvait au moins prétendre être le début d’une révolution, le 80186, lui, n’a fait que passer. C’était un peu comme ce bébé qui ne dort pas bien, qui mange quand il veut : il est là, mais rien d’exceptionnel pour l’instant 😴.
@@ -71,7 +71,8 @@ Si le 8086 pouvait au moins prétendre être le début d’une révolution, le 8
 ## 🔥 **Version Alpha 0.4 – Le i286 : Une révolution (presque) comme moi**
 
 ![Image du processeur i286](images/KL_Intel_i286.jpg)
-![Révolution du i286](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhncml3bnEzNXFrOHg2cDUxdWpmcTZrbXV4ZmJubHh3ZTZ1MXF2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTcqX9Wd6US358jmcL/giphy.gif)
+<!-- 
+![Révolution du i286](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhncml3bnEzNXFrOHg2cDUxdWpmcTZrbXV4ZmJubHh3ZTZ1MXF2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTcqX9Wd6US358jmcL/giphy.gif) -->
 
 En 1982, Intel lance enfin un processeur prêt à tout changer : le **i286**. Ce petit bijou, capable de gérer jusqu’à 16 Mo de mémoire, amène avec lui une innovation majeure, le **mode protégé** 🛡️. C’est le début des véritables protections de système, évitant les plantages et offrant une stabilité incroyable pour l’époque.
 
@@ -84,8 +85,9 @@ Là où le 8086 faisait le minimum et le 80186 se perdait en route, le **i286** 
 
 ## 🏗️ **Version Alpha 0.5 – Un bond technologique vs. un nouveau-né**
 
+<!-- 
 ![Image d'un bébé avec un ordinateur jouet](images/15462.jpg)
-![Premier pas technologique](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+![Premier pas technologique](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif) -->
 
 Le i286 s’installe et devient un incontournable des années 80, marquant les premiers vrais pas vers une informatique plus stable et plus fiable. Pendant ce temps, de mon côté, j’avance aussi, pas à pas, trouvant mon rythme. Ce n’est pas encore le multitâche, mais ça commence à venir ! 😉
 
@@ -99,7 +101,8 @@ Tout comme le i286 évolue, je commence moi aussi à interagir un peu plus avec 
 ## 🌍 **Version Alpha 0.6 – 1985 : L’arrivée du i386 et des premiers pas… loin de chez moi**
 
 ![Image du processeur Intel i386](https://cdn.cpu-world.com/CPUs/80386/L_Intel-NG80386SX-25%20(SAMPLE).jpg)
-![Nouveaux Horizons](https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif)
+<!-- 
+![Nouveaux Horizons](https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif) -->
 
 En 1985, Intel lance le **i386**, un processeur qui va véritablement révolutionner l’informatique avec une architecture **32 bits** et un espace d’adressage bien plus grand 🌌. Là où le i286 atteignait ses limites, le i386 ouvre de nouvelles portes : il gère mieux le multitâche et est prêt pour des applications plus complexes. 
 
@@ -108,9 +111,9 @@ Cette année-là, tout comme le i386 s’étend vers de nouveaux horizons, moi a
 
 > 🛠️ *Tout autour de moi devient plus structuré. Là où j’étais un simple explorateur, je commence à découvrir un monde aux possibilités infinies.*
 # 🏢 **Version Alpha 0.7 – Le i386 : comme un beau-père évolué et bienveillant**
-
+<!-- 
 ![Illustration d'une famille avec un père bienveillant](images/young-family-with-their-sons-home-having-fun.jpg)
-![Support System](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhkOHZrbHk1Mm1ubXZ2MTJobHM4M3praWwwamE4YWJ4M3BodGoxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G94WZXWDVHSslUV6li/giphy.gif)
+![Support System](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhkOHZrbHk1Mm1ubXZ2MTJobHM4M3praWwwamE4YWJ4M3BodGoxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G94WZXWDVHSslUV6li/giphy.gif) -->
 
 Si je devais imaginer le **i386** comme une figure humaine, ce serait comme un **beau-père solide et fiable**. Bien plus avancé que ses prédécesseurs, il n’est plus un simple processeur, mais un véritable **pilier pour les systèmes informatiques** de l’époque. 🖥️
 
@@ -123,8 +126,8 @@ Dans ma vie, cette époque me fait penser à mon beau-père, lui aussi un modèl
 
 ## 🌍 **Version Alpha 0.8 – Des fondations solides**
 
-![Image d'une construction](https://cdn.pixabay.com/photo/2014/03/11/23/21/site-285645_1280.jpg)
-![Building Foundations](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh2anphNzNkdGdpMThqeG1vM2gwNmhxMTg5cnZ3Nm92eGVyZzJ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tyWkbkuEmxeBz9FSli/giphy.gif)
+<!-- 
+![Building Foundations](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh2anphNzNkdGdpMThqeG1vM2gwNmhxMTg5cnZ3Nm92eGVyZzJ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tyWkbkuEmxeBz9FSli/giphy.gif) -->
 
 En grandissant et en posant mes premiers pas en Guyenne, j'ai commencé à comprendre ce que signifiait “construire”. 🧱 Mon beau-père, dans son travail, érigait des maisons, des routes, des bâtiments où les gens allaient vivre et travailler. 🏡 Pendant ce temps, le processeur i386 construisait, lui aussi, des bases solides pour l’informatique, permettant aux ordinateurs de gérer des systèmes plus complexes. Tout semblait devenir plus stable et structuré autour de moi, avec une base solide sur laquelle m’appuyer.
 
@@ -137,7 +140,8 @@ Comme le i386 qui posait les fondations d'un monde digital, je posais mes racine
 ## 🏅 **Version Alpha 0.9 – Une étiquette fièrement collée**
 
 ![Image d'un autocollant Intel Inside](https://upload.wikimedia.org/wikipedia/commons/1/1d/Intel_Inside_Logo_%281991-2006%29.svg)
-![Pride and Recognition](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmljbjhqYjk2N2F0eWcycnp3ZzF2YjA0eGI4NGR2OHhlOGp3amMzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FKI4SQbwMm9ox858Bq/giphy.gif)
+<!-- 
+![Pride and Recognition](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmljbjhqYjk2N2F0eWcycnp3ZzF2YjA0eGI4NGR2OHhlOGp3amMzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FKI4SQbwMm9ox858Bq/giphy.gif) -->
 
 Ah, les années 80… Avec l’arrivée du i386, les fabricants de PC étaient en effervescence. 🖥️ Pour eux, avoir un processeur i386, c’était comme obtenir la distinction suprême en matière de technologie. Ils affichaient leur fierté sans hésitation : un bel autocollant “Intel Inside – i386” collé bien en évidence, tel un sceau de qualité, pour dire au monde entier : "Ici, c’est du sérieux !"
 
@@ -172,7 +176,6 @@ Pour notre beau-père, être un Hortencio, ce n’était pas simplement une ques
 En un sens, elle incarnait cet esprit d’innovation et d’adaptabilité, capable de tirer le meilleur de ses origines et de les faire vivre au quotidien. Alors, même sans autocollant brillant, ce nom “Hortencio” est devenu notre propre étiquette, notre “Intel Inside” à nous. 💖 Et quelque part, cela valait bien plus qu’un simple label : c’était une promesse, un engagement, un héritage que notre beau-père nous avait transmis avec fierté, et que nous étions fiers de porter, chacun à notre manière.
 ## 🌱 **Version Alpha 0.12 – Des valeurs qui nous propulsent**
 
-![Image d'un arbre avec des racines profondes](https://cdn.pixabay.com/photo/2015/12/01/20/28/forest-1072828_960_720.jpg)
 
 Grâce à lui, ce nom **Hortencio** est devenu bien plus qu’un simple mot sur des papiers. C’était une promesse. Comme un processeur amélioré qui passe à la génération suivante, notre beau-père voulait s’assurer que nous, ses enfants, saurions honorer cet héritage. 💡 Pour lui, l’essentiel, ce n’était pas de “porter” un nom, mais de le vivre en appliquant ces valeurs de respect, de partage et de transmission. 🌍
 
@@ -184,7 +187,7 @@ Chaque jour, en regardant ce nom, je me rappelle que c’est une étiquette de c
 
 ## 🎄 **Version Alpha 0.13 – Noël à la mode des années 80 : Sapins, Cadeaux et Blabla**
 
-![Image d'un sapin de Noël vintage](images/705b283a7cb8577a5bf4725c3a6e669e71b72427335ec1d75f5497d022c8ba80.png)
+
 
 Ah, les **Noëls des années 80**… Chez nous, c’était tout un festival. Mes parents étaient de véritables artisans de l’esprit de Noël, prêts à transformer la maison en petite fabrique de magie. ✨ Chaque année, ils sortaient l’artillerie lourde : un sapin bien touffu qu’ils décoraient jusqu’à la dernière aiguille, des guirlandes multicolores, des boules scintillantes, et même ce faux flocon de neige qu’on retrouvait partout dans la maison bien après le 25 décembre. 🎅🎁
 
@@ -196,7 +199,6 @@ Les cadeaux ? Cachés à des endroits improbables, évidemment. Mon père prenai
 
 ## 🎶 **Version Alpha 0.14 – Ambiance festive et amitiés indéfectibles**
 
-![Image de soirée conviviale vintage](images/pexels-kindelmedia-7476134.jpg)
 
 La maison était rarement silencieuse. Mes parents étaient les rois des soirées conviviales, aimant recevoir leurs amis pour de bons repas et des discussions qui s’étiraient souvent jusque tard dans la nuit. C’était l’époque des salons enfumés, des rires bruyants, et des 33 tours de musique qui tournaient sur la platine. 🎶 Ils avaient ce rituel, presque sacré, de se retrouver entre amis, et quand ils n’étaient pas les hôtes, ils étaient les invités. Une joyeuse alternance, qui faisait de chaque semaine une fête, au rythme des retrouvailles. 🍷
 
