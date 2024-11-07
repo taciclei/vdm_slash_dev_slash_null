@@ -225,29 +225,25 @@ Elle était partie. Partie pour toujours, alors que je n’avais même plus de m
 > Ce dernier appel a marqué un point de non-retour, un écran bleu qui laisserait à jamais mon cœur figé dans un état de deuil, un processus qu’aucun redémarrage ne pourrait réparer.
 ## 💔 Beta 0.25 – Les mots que je n’ai jamais dits : une éternité de regrets
 
-Un cri montait en moi, celui que je n’avais jamais osé lui dire : *je t’aime, je t’aime, et je t’aimerai pour toujours*. Des mots qui n’avaient jamais trouvé leur chemin vers elle. Des mots que je voulais hurler, en majuscules, en caractères gras, pour qu’elle comprenne enfin l’ampleur de cet amour que je lui portais, mais qu’elle n’entendrait jamais. 💬❤️
+<p align="center">
+  <strong>Un cri montait en moi</strong>, celui que je n’avais jamais osé lui dire : <br> 
+  <span style="font-size: 1.2em; color: #D33;">*Je t’aime, je t’aime, et je t’aimerai pour toujours.*</span>
+</p>
 
-À cet instant, même la langue prenait une nouvelle dimension. Les temps des verbes, ces règles que je trouvais absurdes autrefois, avaient soudain du sens. *Aimer, avais aimé, aurais aimé*… autant de temporalités que je ne maîtrisais plus, autant de regrets tissés dans le passé, le présent et le futur. ⏳
+Un sentiment d’urgence, une envie de crier ces mots, en majuscules, en caractères gras, pour qu’elle comprenne enfin l’ampleur de cet amour. Mais elle ne les entendrait jamais. 💔
 
-Les paroles d’une chanson de Francis Cabrel résonnaient dans mon esprit, un écho de cette tristesse infinie. Tout ce que je voulais, c’était revenir en arrière, effacer les moments de colère et de fierté, et lui dire, enfin, qu’elle avait toujours été mon modèle, mon alliée. 🎶
+> **À cet instant**, même la langue prenait une nouvelle dimension. Les temps des verbes que je trouvais absurdes autrefois avaient soudain du sens : *Aimer, avais aimé, aurais aimé…* autant de regrets dispersés dans le passé, le présent, et le futur.
 
-Si seulement la vie fonctionnait comme un ordinateur, avec une combinaison magique, un simple *Ctrl + Z* pour annuler l’irréversible. Sur mon ordinateur, je pouvais corriger mes erreurs, effacer un bug ou réécrire un passage entier en quelques touches. J’aurais tout donné pour que la vie fonctionne pareil, pour qu’une combinaison de touches puisse remonter le temps et me permette de réparer cette histoire, de rétablir les liens avant qu’il ne soit trop tard. ⌨️⏪
-
-Mais dans la vie réelle, les lois de la physique ne laissent pas cette chance. Le temps, comme un fleuve, coule dans une seule direction. Il peut s’étirer ou se contracter, comme dans ce film *Interstellar* où chaque minute semble durer une éternité, mais jamais il ne revient en arrière. J’ai dû apprendre cela de la manière la plus brutale, comme une application directe de la loi de Murphy : si quelque chose peut mal tourner, alors cela finira par arriver. 💫🌌
-
-> À cet instant, la seule chose qui me restait, c’était l’irréversible. La douleur d’une leçon apprise trop tard, avec aucun retour possible en arrière.
+Les paroles de Francis Cabrel résonnaient, un écho de cette tristesse infinie. Tout ce que je voulais, c’était revenir en arrière, effacer les moments de colère et de fierté, et lui dire qu’elle avait toujours été mon modèle, mon alliée. 
 
 ---
 
 ## 🔄 Beta 0.26 – Rebooter la vie : avancer malgré le bug
 
-Après ce jour, rien ne semblait possible. Mon esprit était figé dans ce moment, comme si mon système d’exploitation interne s’était écrasé, incapable de redémarrer. Je ne savais pas comment continuer, ni même si j’en avais la force. Comment redémarrer après un bug aussi profond, une perte qui laisse une faille irréparable ? 🖥️💔
+Après ce jour, mon esprit était figé dans ce moment, comme si mon système d’exploitation interne s’était écrasé, incapable de redémarrer. Je ne savais pas comment continuer, ni même si j’en avais la force. 🖥️💔
 
-Et pourtant, quelque part en moi, un instinct de survie me poussait à trouver un moyen de rebooter, de repartir, même avec cette version de moi brisée. J’étais obligé de continuer, de chercher la force de reconstruire une version “majeure” de moi-même, une mise à jour qui intégrerait cette douleur et ce manque, comme un module permanent. Ce n’était pas un choix ; c’était une nécessité. 💪🌱
+> Et pourtant, un instinct de survie me poussait à trouver un moyen de rebooter, de repartir, même avec cette version de moi brisée. *Ce n’était pas un choix ; c’était une nécessité.*
 
-> Cette version de moi ne serait peut-être jamais parfaite, mais elle serait plus forte, forgée dans les leçons du passé et armée pour l’avenir. Il fallait avancer, malgré les bugs, malgré les failles, avec l’espoir de bâtir quelque chose de plus solide.
-
----
-
-🌟 **Découvrez la suite**  
-Pour continuer l’aventure et découvrir la **Version 1.0**, suivez le lien et explorez les nouvelles étapes de ce cheminement : [Accéder à la V1 🚀](README.v1.md)
+<p align="center">
+  <a href="README.beta.md"><strong>Accéder à la V1 🚀</strong></a>
+</p>
