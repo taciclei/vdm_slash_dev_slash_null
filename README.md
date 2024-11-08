@@ -4,23 +4,28 @@
 
 ## 📘 **Introduction : Alpha 0.0.1 – Le Déclencheur**
 
+### 📝 **Pour les non-initiés**
+Ce document inclut des termes techniques spécifiques au développement et au monde geek. Pour ceux qui ne sont pas familiers avec ces termes, il suffit de **passer la souris** sur les mots en question pour voir une courte description. Pas besoin de s'interrompre dans la lecture : les définitions sont discrètes et se révèlent seulement en survolant les mots.
+
+---
+
 ### 🌅 **Réveil Inspirant**
 Ce matin, en ouvrant les yeux ☀️, j'ai ressenti une envie soudaine de faire le point, de replonger dans mon parcours de développeur 👨‍💻. Le monde du code est devenu mon quotidien, mais revenir aux origines de cette passion semblait plus que nécessaire. Après tout, chaque ligne de code a une histoire, chaque pixel, une mémoire.
 
-
-<!-- ![Réveil Inspirant](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRzZmIwdGduY3Z2NGMzNWJ3ZmQ3aHd3OTBobndva2xldmxkZWxndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gJzX17eLpdWADbq/giphy.gif) -->
-
 ### 🎉 **Commencement**
-Je me dis alors, pourquoi ne pas revenir *au tout début*, là où tout a commencé ? Pourquoi ne pas partager cette aventure depuis mes premiers instants, comme on débugge un programme en remontant à la source ? Ainsi, cette **Version Alpha** de mon histoire est née, prête à être codée.
-
-<!-- ![Back to the Start](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRnNGozMWhsM3c1ZTVtNmVlN3R3MGtpZ3NpenNzMjg2Z2dkeTd3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBzXOrvZ8y5Wro4/giphy.gif) -->
+Je me dis alors, pourquoi ne pas revenir *au tout début*, là où tout a commencé ? Pourquoi ne pas partager cette aventure depuis mes premiers instants, comme on <span title="Trouver et corriger les erreurs dans le code.">débugge</span> un programme en remontant à la source ? Ainsi, cette **Version Alpha** de mon histoire est née, prête à être codée.
 
 ### 🖥️ **Outils en main**
 Me voilà, assis face à Visual Studio Code, l’éditeur de texte 📄✨, un fond noir avec ses lignes colorées. Un bon café ☕, et les doigts posés sur le clavier ⌨️. Ce sera mon histoire, écrite ligne par ligne, de façon aussi logique que poétique, comme un projet de code personnel, mais… *humain*.
 
-<!-- ![Code and Coffee](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)-->
-
 ---
+
+### Autres Exemples de Termes en Survol
+
+- **Commit** : <span title="Sauvegarde officielle des modifications dans le code.">Commit</span>
+- **Merge** : <span title="Combiner différentes versions de code.">Merge</span>
+- **Frontend** : <span title="Partie visible et interactive d'une application.">Frontend</span>
+- **Backend** : <span title="Partie invisible d’une application, gérant les données.">Backend</span>
 
 ## 🌱 **Version Alpha 0.1 – 1982 : L’année des débuts**
 
