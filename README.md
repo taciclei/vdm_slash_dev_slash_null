@@ -5,7 +5,7 @@
 ## 📘 **Introduction : Alpha 0.0.1 – Le Déclencheur**
 
 ### 📝 **Pour les non-initiés**
-Ce document inclut des termes techniques spécifiques au développement et au monde geek. Pour ceux qui ne sont pas familiers avec ces termes, il suffit de **passer la souris** sur les mots en question pour voir une courte description. Pas besoin de s'interrompre dans la lecture : les définitions sont discrètes et se révèlent seulement en survolant les mots.
+Ce document utilise certains termes techniques. Si un mot vous semble inconnu, cliquez dessus pour accéder à sa définition en bas de la page dans le glossaire.
 
 ---
 
@@ -13,19 +13,20 @@ Ce document inclut des termes techniques spécifiques au développement et au mo
 Ce matin, en ouvrant les yeux ☀️, j'ai ressenti une envie soudaine de faire le point, de replonger dans mon parcours de développeur 👨‍💻. Le monde du code est devenu mon quotidien, mais revenir aux origines de cette passion semblait plus que nécessaire. Après tout, chaque ligne de code a une histoire, chaque pixel, une mémoire.
 
 ### 🎉 **Commencement**
-Je me dis alors, pourquoi ne pas revenir *au tout début*, là où tout a commencé ? Pourquoi ne pas partager cette aventure depuis mes premiers instants, comme on <span title="Trouver et corriger les erreurs dans le code.">débugge</span> un programme en remontant à la source ? Ainsi, cette **Version Alpha** de mon histoire est née, prête à être codée.
+Je me dis alors, pourquoi ne pas revenir *au tout début*, là où tout a commencé ? Pourquoi ne pas partager cette aventure depuis mes premiers instants, comme on [débugge](#glossaire-debug) un programme en remontant à la source ? Ainsi, cette **Version Alpha** de mon histoire est née, prête à être codée.
 
 ### 🖥️ **Outils en main**
 Me voilà, assis face à Visual Studio Code, l’éditeur de texte 📄✨, un fond noir avec ses lignes colorées. Un bon café ☕, et les doigts posés sur le clavier ⌨️. Ce sera mon histoire, écrite ligne par ligne, de façon aussi logique que poétique, comme un projet de code personnel, mais… *humain*.
 
 ---
 
-### Autres Exemples de Termes en Survol
+### Glossaire
 
-- **Commit** : <span title="Sauvegarde officielle des modifications dans le code.">Commit</span>
-- **Merge** : <span title="Combiner différentes versions de code.">Merge</span>
-- **Frontend** : <span title="Partie visible et interactive d'une application.">Frontend</span>
-- **Backend** : <span title="Partie invisible d’une application, gérant les données.">Backend</span>
+- <a id="glossaire-debug"></a>**Debug** : Trouver et corriger les erreurs dans le code.
+- <a id="glossaire-commit"></a>**Commit** : Sauvegarde officielle des modifications dans le code.
+- <a id="glossaire-merge"></a>**Merge** : Combiner différentes versions de code pour les intégrer en un seul ensemble.
+- <a id="glossaire-frontend"></a>**Frontend** : Partie visible et interactive d'une application.
+- <a id="glossaire-backend"></a>**Backend** : Partie invisible d’une application, gérant les données et la logique.
 
 ## 🌱 **Version Alpha 0.1 – 1982 : L’année des débuts**
 
