@@ -126,3 +126,29 @@ Dans ma tête, ça faisait tilt. *Lui, il a sûrement du code de Luxman dans les
 ---
 
 Cette **Version 3.4** marquait le début de mon immersion dans un environnement où les codes de conduite valaient parfois plus que les bonnes pratiques de code. Entre tensions d’équipe, code hérité et pull requests tatillonnes, c’était une plongée directe dans les joies et les défis d’un projet web en entreprise. Et moi, je continuais, *en mode ninja du code*, à améliorer ce que je pouvais, un guillemet à la fois. 🥷👨‍💻
+
+# Version 3.5 – Un Cœur Brisé et le Retour à l’Orbite Solitaire 💔🌌
+
+À cette époque, mon esprit n’était plus vraiment centré sur le code ou le taf. J’étais plongé dans des turbulences sentimentales, et mon univers personnel ressemblait plus à un **système solaire en perdition** qu’à un tableau Kanban bien organisé. 🌠
+
+## DarkGargantua : L'Ex qui Aspira Tout 🌑
+
+Avant de rencontrer **NurseSparkle**, j’avais déjà tourné la page sur **DarkGargantua**. Cette femme, c’était comme un **trou noir** incarné : elle absorbait toute l’énergie des gens autour d’elle et finissait par tout détruire. Rien ne pouvait échapper à son influence gravitationnelle – amis, projets, espoirs… tout se retrouvait inexorablement aspiré dans son vide.
+
+DarkGargantua n’était pas seulement une ex, elle avait été un vortex dans ma vie, un champ de force sombre qui me laissait à plat. Mais je pensais que j’étais sorti de son orbite… jusqu’à ce qu’elle revienne, comme un bug persistant. 🚨
+
+## NurseSparkle : L'Étoile qui M’avait Ramené à la Lumière 💍✨
+
+Puis j’ai rencontré **NurseSparkle**. Elle était tout l’inverse. **Blonde, yeux bleus**, cette infirmière à l’humour pétillant était comme une comète lumineuse, pleine de vie et d’énergie. Elle avait cette façon de faire rire tout le monde, de chasser les nuages et de te faire croire, même pour un instant, que tout allait bien.
+
+Avec elle, tout paraissait plus clair, plus simple. J’étais fou amoureux. Si bien que, après sept mois à ses côtés, j’ai décidé de lui acheter une bague de fiançailles, *la plus belle que je pouvais lui offrir* – j’avais même dû appeler mon banquier pour **débloquer la limite** de ma carte Gold pour faire cet achat. Parce qu’on sait tous que l’amour, ça n’a pas de prix… jusqu’à ce qu’il y ait un plafond de carte bleue. 💳💍
+
+## Perdre NurseSparkle : Quand un Système à Deux Étoiles Perd son Équilibre 🌌💔
+
+Malheureusement, même les étoiles les plus brillantes ont leur propre trajectoire, et parfois, elles échappent à notre orbite. DarkGargantua, avec sa gravité maléfique, a su encore une fois créer un déséquilibre fatal. NurseSparkle, la mère de mon petit **AirTown13**, avait ressenti cet appel funeste et, malgré toute la lumière qu’elle apportait, elle s’est éloignée. Comme si, après avoir épuisé mon énergie dans cette bataille, elle n’avait plus la force de rester. 
+
+Me voilà, de nouveau seul, comme une **étoile errante sans système**, avec seulement l’écho de ses rires et un cœur qui essaye de se recompiler, ligne par ligne, après ce crash émotionnel.
+
+---
+
+Cette **Version 3.5** symbolise un retour brutal à la solitude. Entre amours perdus, passions lumineuses et ombres envahissantes, c’était un rappel de la fragilité de notre univers personnel, même pour un développeur. Mais au fond, tout ce qui se casse finit toujours par être réparé, *en codant un pas après l'autre vers un futur plus stable*.
