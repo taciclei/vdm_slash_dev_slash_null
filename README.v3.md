@@ -152,3 +152,30 @@ Me voilà, de nouveau seul, comme une **étoile errante sans système**, avec se
 ---
 
 Cette **Version 3.5** symbolise un retour brutal à la solitude. Entre amours perdus, passions lumineuses et ombres envahissantes, c’était un rappel de la fragilité de notre univers personnel, même pour un développeur. Mais au fond, tout ce qui se casse finit toujours par être réparé, *en codant un pas après l'autre vers un futur plus stable*.
+
+### 📖 **Glossaire Geek et Tech**
+
+| 🛠️ Terme                    | 📝 Définition                                                                                                                                                                                                 |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Freelance**               | 👔 Travailleur indépendant, qui choisit ses projets avec soin, pour savourer l'équilibre parfait entre liberté et charge de travail.                                                                          |
+| **Scaler**                  | 📈 Donner de l’ampleur à un projet, comme un jeu de Tetris où il faut s’assurer que tout s’empile parfaitement pour ne rien laisser au hasard.                                                                |
+| **Bitcoin / Litecoin / Dogecoin** | 💸 Monnaies numériques décentralisées. Quand on en possède, on est soit un génie de la finance, soit un fan de memes canins !                                                                           |
+| **GPU**                     | 💻 Unité de traitement graphique, utilisée pour des rendus visuels… ou pour miner de la cryptomonnaie dans le cas des geeks ambitieux.                                                                       |
+| **Minage**                  | ⛏️ Processus de génération de cryptomonnaie grâce à des calculs informatiques intensifs. Qui dit minage, dit facture d’électricité astronomique !                                                           |
+| **Xcode**                   | 🍎 Environnement de développement d’Apple. C’est l’endroit où naissent les applications iPhone, grâce à un bon mélange de magie et de lignes de code.                                                        |
+| **Pull Request**            | 📤 Proposition d'intégration de modifications dans un projet de code. Parfois trivial, parfois disputé pour un simple double guillemet !                                                                     |
+| **Linux Distribution**      | 🐧 Un système d’exploitation libre et modulable. Utilisé pour des serveurs, des projets de code, et bien sûr, pour le minage de cryptomonnaies.                                                              |
+| **Pimp My Miner**           | 🚀 Nom stylé d’une distribution Linux optimisée pour le minage. Un peu comme ajouter des flammes sur un vélo pour le rendre plus cool.                                                                       |
+| **TMA**                     | 🔧 Tierce Maintenance Applicative, souvent le joyeux recyclage de code legacy. On prend soin du vieux code pour qu'il continue de tourner malgré tout.                                                      |
+| **The Doof Warrior**        | 🥁 Personnage intrépide du code, surnommé ainsi pour son style ou sa capacité à jouer avec le chaos informatique.                                                                                           |
+| **Zend Framework**          | 🛠️ Framework PHP robuste, parfois malmené par des développeurs en quête de liberté artistique (ou de chaos).                                                                                                |
+| **SOLID**                   | 🧱 Ensemble de principes de conception logicielle, un gage de maintenabilité et de clarté. Ce n’est pas le cas du code spaghetti !                                                                           |
+| **STUPID**                  | 🍝 Exact opposé de SOLID, où chaque élément de code semble fonctionner, mais au détriment de la logique et de la lisibilité.                                                                                 |
+| **API**                     | 🔌 Interface qui permet à des logiciels de communiquer entre eux. C'est l'ami du développeur pour partager des informations en toute simplicité.                                                             |
+| **DarkGargantua**           | 🌑 Pseudonyme inspiré d’un trou noir qui absorbe toute énergie autour d’elle. Une personnalité marquante mais fatale.                                                                                        |
+| **NurseSparkle**            | ✨ Surnom affectueux d’une compagne lumineuse et joyeuse, avec un sens de l'humour qui illumine la vie comme une étoile filante.                                                                             |
+| **Carte Gold**              | 💳 Symbole de statut, utilisé aussi bien pour montrer son niveau de crédit que pour acheter des bagues de fiançailles hors de prix.                                                                          |
+
+---
+
+Ce glossaire aide à naviguer parmi les termes techniques et anecdotes personnelles du document, en alliant informations utiles et humour pour une lecture agréable !

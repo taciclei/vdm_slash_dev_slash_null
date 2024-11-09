@@ -304,3 +304,30 @@ Bref, cette nouvelle ère s’annonçait pleine de changements : du BEPC aux ryt
 <p align="center">
   <a href="README.v1.md"><strong>Accéder à la V1 🚀</strong></a>
 </p>
+
+
+
+---
+
+## 📖 **Glossaire Geek et Tech**
+
+| 🛠️ Terme                  | 📝 Définition                                                                                                                                                                                                 |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Pentium**               | 💻 Processeur légendaire d'Intel qui a marqué un saut en puissance. À l'époque, avoir un Pentium, c'était un peu comme avoir une Ferrari en informatique !                                                       |
+| **P5**                    | 🏢 Pseudonyme pour beau-père, en référence aux modèles d'ordinateurs (comme le Pentium 5) ; une personne fiable et solide, à l'image d'un ordinateur performant.                                                |
+| **Dual Boot**             | 🔄 Utiliser deux systèmes d'exploitation sur le même ordinateur, comme garder deux options de vie ou deux mentalités, selon le contexte.                                                                       |
+| **Disquette protégée en écriture** | 🔒 Une disquette que l'on ne peut pas modifier, symbole d'une personne ou d'une mémoire que l'on ne peut pas changer.                                                                                     |
+| **i386/i486**             | 🖥️ Ancêtres des ordinateurs modernes, ces modèles étaient les pionniers, avec des performances limitées mais robustes, un peu comme une première voiture vintage.                                              |
+| **Windows 3.1 / MS-DOS**  | 🖱️ Les débuts des systèmes d'exploitation graphiques grand public. Windows 3.1 et MS-DOS étaient les fondations sur lesquelles reposaient les premiers PC.                                                    |
+| **Kernel Panic**          | ⚠️ Erreur fatale où tout l’ordinateur s'arrête. Dans la vie, ça peut ressembler à un moment de blocage complet, où tout s'écroule autour de nous.                                                              |
+| **Killall -9**            | 🔫 Commande pour forcer l'arrêt d'un processus. Utilisé métaphoriquement, c'est l'idée de tout arrêter brutalement, sans espoir de reprise.                                                                    |
+| **CPU**                   | 🧠 Le cœur de l'ordinateur, là où tout est calculé et où chaque décision est prise. Dans cette histoire, c’est le cœur des souvenirs, là où les émotions sont enregistrées.                                    |
+| **Minitel**               | 📞 Ancêtre d'internet en France, un petit écran qui permettait d'accéder à des services en ligne. Ce petit bijou rétro était très en avance sur son temps !                                                    |
+| **Format c:/ -s**         | 💾 Commande DOS pour effacer tout sur un disque dur, symbole d'un recommencement radical, souvent après une perte ou un besoin de repartir à zéro.                                                             |
+| **BIOS**                  | 🔧 Programme de base d'un ordinateur, qui gère tout le matériel avant même le système d'exploitation. C’est comme la mémoire la plus profonde d'une personne, là où tout commence.                             |
+| **Matrix / Morpheus**     | 🕶️ Film culte des années 90 où l’on découvre une réalité alternative. Morpheus est le guide de cette “matrice”, l’instructeur mystique qui montre la vérité.                                                |
+| **Capoeira**              | 🕺 Art martial brésilien qui allie danse, combat et rythme, symbole de culture et d'identité pour les Brésiliens.                                                                                               |
+
+---
+
+**Fin du glossaire** – Une explication humoristique pour éclairer les non-initiés sur les subtilités du vocabulaire geek et technique de ce récit.

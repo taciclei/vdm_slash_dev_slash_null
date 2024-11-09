@@ -356,3 +356,24 @@ Ce Nouvel An, avec Sekura, Antibibi, et l’absurdité d’un réveillon sans no
 <p align="center">
   <a href="README.v2.md"><strong>📥 Accéder à la V2 🚀</strong></a>
 </p>
+
+
+### 📖 **Glossaire Geek et Tech**
+
+| 🛠️ Terme                  | 📝 Définition                                                                                                                                                                                                 |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **ASV**                   | 💬 Question d'antan pour "Âge, Sexe, Ville" posée sur les tchats pour briser la glace… ou autre chose !                                                                                                       |
+| **Base de données**       | 🗃️ La caverne d'Ali Baba du développeur. Une ressource qui stocke toutes sortes d'infos, parfois obtenues d'une manière… mystérieuse.                                                                         |
+| **BitZenSophie**          | 💁 Pseudo geek d'une personne qui semble insaisissable, mystérieuse et peut-être même un brin zen !                                                                                                            |
+| **Flash**                 | ⚡ Technologie autrefois tendance pour les sites animés, aujourd'hui démodée mais inoubliable pour ceux qui ont vécu l'âge d'or des animations.                                                               |
+| **IRC**                   | 🖥️ Ancien chat où la vie geek battait son plein, bien avant les messageries modernes. Pour les vrais nostalgiques d'Internet.                                        |
+| **JavaBuddha**            | ☕ Un gourou du Java, fidèle à ce langage, et qui garde une distance sage par rapport aux autres, surtout PHP.                                                                                                 |
+| **MONSITEFACILE**         | 🛠️ Un projet personnel pour rendre la création de sites web accessible, une idée de génie qui, comme beaucoup, aurait mérité plus de temps pour aboutir !                                                     |
+| **PM27**                  | 🕵️ Un camarade de dev qui amène des idées surprenantes et des bases de données "trouvées" pour les projets nocturnes les plus fous.                                                                         |
+| **SPIP**                  | 📑 CMS utilisé à l’époque pour des sites assez modulaires. Flexible, mais pas vraiment fan de Flash, ce qui a posé quelques défis de compatibilité.                                                          |
+| **Vol de Taupe**          | 🐦➡️🐀 Bug où les calculs de distance "en vol d’oiseau" ont failli se transformer en tunnel trans-terrestre. Une manière innovante de calculer, ou pas.                                                     |
+| **Carte de France Pixelisée** | 🗺️ Un projet ambitieux de créer une carte géographique avec des pixels. Ce n’était pas Google Maps, mais ça donnait une petite fierté !                                                              |
+
+---
+
+Ce glossaire apporte une touche d’humour et de clarté, idéal pour les non-initiés et les geeks qui veulent mieux saisir le jargon du fichier `README.v1.md`.

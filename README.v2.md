@@ -198,3 +198,34 @@ Avec AirTown13, c’est plus qu’un simple projet, c’est l’émergence d’u
 <p align="center">
   <a href="README.v3.md"><strong>📥 Accéder à la V3 🚀</strong></a>
 </p>
+
+
+
+### 📖 **Glossaire Geek et Tech**
+
+| 🛠️ Terme                    | 📝 Définition                                                                                                                                                                                                 |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Pentium**                 | 💻 Un processeur d'Intel culte, emblème des années 90. Avoir un Pentium, c'était comme rouler en Ferrari de l’informatique !                                                                                   |
+| **P5**                      | 🏢 Nom affectueux donné à un chef ou mentor, souvent une référence au modèle de processeur, signe de fiabilité (ou d'incompatibilité totale).                                                                   |
+| **Kernel Panic**            | ⚠️ Erreur fatale où tout s'arrête net. Comparable à un gros blocage dans la vie où rien ne fonctionne comme prévu.                                                                                             |
+| **Killall -9**              | 🔫 Commande pour forcer l'arrêt immédiat d'un programme. Parfois, c'est la seule option pour les bugs les plus récalcitrants !                                                                                |
+| **CPU**                     | 🧠 Cerveau de l'ordinateur. Le processeur effectue tous les calculs ; le cœur battant de tout système informatique.                                                                                           |
+| **Minitel**                 | 📞 Ancêtre d'Internet en France, le Minitel permettait des services en ligne et restera gravé dans les mémoires comme le début du numérique français.                                                          |
+| **Format c:/ -s**           | 💾 Commande de nettoyage complet d’un disque. Dans la vie, c'est comme tout effacer pour recommencer de zéro, une remise à plat totale.                                                                        |
+| **Matrix / Morpheus**       | 🕶️ Référence au film culte Matrix et à Morpheus, guide mystique dans la “réalité alternative.” Un mentor pour les novices du code.                                                                           |
+| **SPIP**                    | 📑 Un CMS célèbre, utilisé pour créer des sites web dans les années 2000, avant que WordPress ne prenne le relai.                                                                                             |
+| **Carte Gold**              | 💳 Carte bancaire dorée qui symbolise un certain statut. Avoir une Gold, c’est passer dans une autre catégorie… du moins en apparence !                                                                       |
+| **Visa Electron**           | 🏦 Une carte bancaire basique. Rien de clinquant, mais suffisante pour les petites dépenses.                                                                                                                  |
+| **Spider-Cochon**           | 🐷🕸️ Un moment hilarant de se faire soulever en l'air façon *Spider-Cochon*, référence aux Simpson, pour rappeler qu’on peut se retrouver dans des situations totalement absurdes !                           |
+| **Agile Board**             | 📋 Tableau de gestion de tâches en méthode agile, avec des post-it passant d’une colonne à l’autre, comme des commandes en cuisine.                                                                           |
+| **Ledieu**                  | 🦸 Un personnage solide comme un roc. Il a la carrure et le nom qui inspirent la confiance… ou la crainte !                                                                                                   |
+| **Merge SVN**               | 🔄 Fusion dans un système de gestion de version. Peut provoquer des surprises, mais vital pour combiner du code de manière ordonnée.                                                                           |
+| **Cookies Espions**         | 🍪 Des cookies traqueurs utilisés pour surveiller les comportements utilisateurs en ligne. Aujourd'hui, c'est un peu limite, mais à l'époque, c'était l'innovation !                                          |
+| **Dream Team R&D**          | 🚀 Une équipe d'experts en innovation, chacun avec son style unique, prêts à transformer des idées en réalité.                                                                                                 |
+| **Baby is Loading…**        | 👶 Inscription humoristique sur les vêtements de grossesse geek, avec une barre de chargement, pour annoncer l'arrivée d'un futur bébé.                                                                        |
+| **Devenir Papa pour les Nuls** | 📖 Guide humoristique pour les futurs pères, avec des conseils pratiques comme "Debugging des couches" et "Gestion des réveils nocturnes".                                                                     |
+| **AirTown13**               | 🤖 Un surnom geek pour un futur prodige du code, imaginé comme une extension naturelle du développeur. Un mini-moi version code !                                                                             |
+
+---
+
+Ce glossaire présente les termes avec une touche d'humour, idéal pour les non-initiés qui découvrent le jargon de ce fichier !
