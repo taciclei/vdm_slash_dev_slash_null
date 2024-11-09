@@ -289,33 +289,34 @@ Avec ma sœur, nous avancions dans ce nouveau décor. C’était un monde plus b
 > Découvrez les dernières évolutions du projet et les ajouts récents.  
 > **[Cliquez ici pour accéder à la Version Beta 🚀](README.beta.md)**
 
+
 ### 📖 **Glossaire Geek et Tech**
 
 ```shell
-API : Abréviation de “Aide Pour les Intellos” (ou presque). En vrai, c’est une interface qui permet à des programmes de discuter entre eux, comme des copains qui se passent des messages secrets en code.
+API : Abréviation de "Aide Pour les Intellos" (ou presque). En vrai, c'est une interface qui permet à des programmes de discuter entre eux, comme des copains qui se passent des messages secrets en code.
 
-Backend : Le royaume mystérieux où se déroulent toutes les opérations secrètes d’une application. Pensez-y comme à la cuisine d’un restaurant : ça ne se voit pas, mais sans ça, rien ne fonctionnerait.
+Backend : Le royaume mystérieux où se déroulent toutes les opérations secrètes d'une application. Pensez-y comme à la cuisine d'un restaurant : ça ne se voit pas, mais sans ça, rien ne fonctionnerait.
 
-Bug : Petite bestiole insidieuse qui s'invite dans le code et fait tout planter. Certains disent que ça ajoute du piment, mais la plupart des devs voudraient bien l’écraser.
+Bug : Petite bestiole insidieuse qui s'invite dans le code et fait tout planter. Certains disent que ça ajoute du piment, mais la plupart des devs voudraient bien l'écraser.
 
-Commit : Quand on décide de sauver des changements dans le code, un peu comme si on se disait “Ok, là, je suis sûr de moi !” (jusqu’au prochain bug).
+Commit : Quand on décide de sauver des changements dans le code, un peu comme si on se disait "Ok, là, je suis sûr de moi !" (jusqu'au prochain bug).
 
-Cryptomonnaie : Monnaie magique qu’on ne voit jamais vraiment, mais qui rend certains riches, et d’autres très, très confus. Utilisée principalement pour acheter des emojis de fusée et des images de singes pixelisés.
+Cryptomonnaie : Monnaie magique qu'on ne voit jamais vraiment, mais qui rend certains riches, et d'autres très, très confus. Utilisée principalement pour acheter des emojis de fusée et des images de singes pixelisés.
 
-Débugger : L’art de jouer à cache-cache avec les bugs dans le code. Un passe-temps favori des développeurs... ou pas.
+Débugger : L'art de jouer à cache-cache avec les bugs dans le code. Un passe-temps favori des développeurs... ou pas.
 
-Frontend : La vitrine d’un site web, là où tout est beau et ordonné pour l’utilisateur. C’est le côté “tape-à-l’œil”, comme la façade d’une boutique, pendant que le backend gère la comptabilité et les commandes.
+Frontend : La vitrine d'un site web, là où tout est beau et ordonné pour l'utilisateur. C'est le côté "tape-à-l'oeil", comme la façade d'une boutique, pendant que le backend gère la comptabilité et les commandes.
 
 GitHub : Le réseau social des développeurs. Mais au lieu de selfies, on y poste des lignes de code et des commits.
 
-JavaScript : Le couteau suisse du web. Il fait tout, souvent même des choses qu’on ne lui a pas demandées.
+JavaScript : Le couteau suisse du web. Il fait tout, souvent même des choses qu'on ne lui a pas demandées.
 
 Merge : Processus de mélange de différentes branches de code. Imaginez mélanger deux recettes de gâteau et espérer que le résultat soit comestible.
 
-Minage : Activité où on fait travailler son ordinateur comme un forcené pour résoudre des équations compliquées, avec l’espoir de générer de la cryptomonnaie. Une sorte de levée de fonds... mais pour les nerds.
+Minage : Activité où on fait travailler son ordinateur comme un forcené pour résoudre des équations compliquées, avec l'espoir de générer de la cryptomonnaie. Une sorte de levée de fonds... mais pour les nerds.
 
-Pull Request : Quand un développeur demande à un autre s’il peut ajouter ses modifications dans le projet. C’est un peu comme dire “J’ai mis du sel dans ta soupe, ça te va ?”
+Pull Request : Quand un développeur demande à un autre s'il peut ajouter ses modifications dans le projet. C'est un peu comme dire "J'ai mis du sel dans ta soupe, ça te va ?"
 
-SEO : Acronyme de “Séduire les Moteurs de Recherche”. L’art d’essayer de plaire à Google pour qu’il vous mette en haut de sa liste d’invités.
+SEO : Acronyme de "Séduire les Moteurs de Recherche". L'art d'essayer de plaire à Google pour qu'il vous mette en haut de sa liste d'invités.
 
-Version Beta : Phase où tout est presque prêt, sauf que tout risque encore de planter. Mais bon, c’est déjà mieux que l’Alpha, non ?
+Version Beta : Phase où tout est presque prêt, sauf que tout risque encore de planter. Mais bon, c'est déjà mieux que l'Alpha, non ?
