@@ -404,7 +404,7 @@ Cette analyse a permis de poser les chiffres sur la table sans accuser qui que c
 
 La fatigue commençait sérieusement à se faire sentir sur cette mission. Je donnais tout, mais c’était frustrant de voir que tout le monde ici touchait plus de **500 euros par jour**, y compris WPsiesta. Et puis, le coup de théâtre : qui décident-ils de remercier ? Vous l’avez deviné… moi. Ironie du sort, ils m’ont libéré avant même que je prenne la décision de partir.
 
-En vérité, je leur dis presque merci, car de toute façon, je comptais m’en aller. Le timing tombait bien, puisque l’État français venait de demander à ma compagne de quitter le pays. Sérieusement ? On est pacsés, elle habite avec moi, elle est indépendante – que faut-il de plus ? Une véritable absurdité administrative, qui tombait comme un cheveu sur la soupe.
+En vérité, je leur dis presque merci, car de toute façon, je comptais m’en aller. Le timing tombait bien, puisque l’État français venait de demander à ma compagne ***Ainbo91*** de quitter le pays. Sérieusement ? On est pacsés, elle habite avec moi, elle est indépendante – que faut-il de plus ? Une véritable absurdité administrative, qui tombait comme un cheveu sur la soupe.
 
 ### 🎬 La Fin d’une Version et le Début d’une Nouvelle Aventure
 
@@ -450,3 +450,4 @@ Ainsi s’achève cette version de mon histoire, et une nouvelle s’ouvre devan
 | **pépère programming**      | 🛋️ Style de programmation "tranquille", où la productivité n’est pas toujours au rendez-vous ; le code version canapé.                                                                                                    |
 | **3G / 4G / Fibre**         | 📶 Types de connexions internet, où la fibre est la Ferrari et la 3G, le tricycle.                                                                                                                                         |
 | **Distanciation sociale**   | ↔️ Règle imposée par COVID-19, mais bienvenue pour éviter de trop voir certains collègues.                                                                                                                                |
+| **AInbo91**                 | 👑 La princesse de l’Amazonie ! Compagne avec un grand cœur et un caractère puissant ; la reine de la jungle et mon amour, tout simplement.                                                                                 |
