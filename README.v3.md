@@ -145,7 +145,7 @@ Avec elle, tout paraissait plus clair, plus simple. J’étais fou amoureux. Si 
 
 ## Perdre NurseSparkle : Quand un Système à Deux Étoiles Perd son Équilibre 🌌💔
 
-Malheureusement, même les étoiles les plus brillantes ont leur propre trajectoire, et parfois, elles échappent à notre orbite. DarkGargantua, avec sa gravité maléfique, a su encore une fois créer un déséquilibre fatal. NurseSparkle, la mère de mon petit **AirTown13**, avait ressenti cet appel funeste et, malgré toute la lumière qu’elle apportait, elle s’est éloignée. Comme si, après avoir épuisé mon énergie dans cette bataille, elle n’avait plus la force de rester. 
+Malheureusement, même les étoiles les plus brillantes ont leur propre trajectoire, et parfois, elles échappent à notre orbite. DarkGargantua la mère de mon petit **AirTown13**, , avec sa gravité maléfique, a su encore une fois créer un déséquilibre fatal. NurseSparkle avait ressenti cet appel funeste et, malgré toute la lumière qu’elle apportait, elle s’est éloignée. Comme si, après avoir épuisé mon énergie dans cette bataille, elle n’avait plus la force de rester. 
 
 Me voilà, de nouveau seul, comme une **étoile errante sans système**, avec seulement l’écho de ses rires et un cœur qui essaye de se recompiler, ligne par ligne, après ce crash émotionnel.
 
