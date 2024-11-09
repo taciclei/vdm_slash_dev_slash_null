@@ -153,6 +153,30 @@ Me voilà, de nouveau seul, comme une **étoile errante sans système**, avec se
 
 Cette **Version 3.5** symbolise un retour brutal à la solitude. Entre amours perdus, passions lumineuses et ombres envahissantes, c’était un rappel de la fragilité de notre univers personnel, même pour un développeur. Mais au fond, tout ce qui se casse finit toujours par être réparé, *en codant un pas après l'autre vers un futur plus stable*.
 
+## 🌌 Version 3.6 : NurseSparkle Hors de Mon Orbite
+
+> "Parfois, nos étoiles se croisent, s'attirent, et finissent par suivre des chemins séparés."
+
+NurseSparkle a quitté mon orbite 🌠, une décision que nous avons gardée entre nous, née du chaos de nos vies croisées. Nos métiers et nos trajectoires s'étaient entremêlés pour envisager la création d'une "future étoile" ensemble, mais nous avons choisi de renoncer à ce projet de vie – une décision que je regrette profondément. Avec elle partie, je devais me reconstruire, établir un nouveau système autour de moi et trouver de nouveaux amis, une nouvelle stabilité.
+
+### 🌍 Retour aux Rencontres et Nouveaux Horizons
+
+À cette époque, je me suis tourné vers le **LEM** (*Language Exchange Meeting*) de Rouen. C’était bien plus qu’un simple groupe d'échange linguistique : j’y ai trouvé un mélange unique de cultures et de personnalités venant des quatre coins du monde. Ce qui m’a marqué, c'était cet esprit d'ouverture, l'envie d'apprendre les uns des autres, et la découverte des différences qui nous enrichissaient tous.
+
+Des étudiants Erasmus apportaient leur énergie et leur jeunesse, et même si j'étais souvent le plus âgé du groupe, ce petit écart ne nous empêchait pas de partager des moments mémorables. Les fêtes semblaient interminables, la jeunesse se chargeant de repousser les limites de l’énergie. Mais malgré ma trentaine bien entamée, la vie sociale était intense et pleine de rires.
+
+### 🎶 PhiliGroove : Le Compagnon des Soirées
+
+C'est là que j'ai rencontré **PhiliGroove** 🎸, un ami hors pair, toujours prêt pour les soirées, la bonne musique et les discussions sans fin. Avec lui, chaque fête devenait une aventure et chaque instant, une anecdote inoubliable. PhiliGroove apportait un groove particulier à nos escapades nocturnes, et sans lui, l'expérience n'aurait pas été la même. Il était le type de pote avec qui chaque soirée se terminait par une promesse de la prochaine aventure.
+
+### 💃 BellaLatina : L'Ami du Cœur
+
+Au-delà des amis de fête, j’ai aussi rencontré **BellaLatina** ❤️, une professeure passionnée et une âme avec qui j’ai rapidement développé une connexion de cœur. BellaLatina est devenue une véritable amie, avec qui j’échangeais non seulement des idées et des pensées profondes, mais aussi des moments de complicité. Elle m’a souvent aidé à voir le monde avec un regard plus apaisé et à aborder les défis avec plus de sérénité.
+
+---
+
+À travers ces amitiés et ces rencontres, une nouvelle étoile personnelle s’est formée. Entre les éclats de rire de PhiliGroove, les réflexions partagées avec BellaLatina, et les échanges culturels du LEM, j’ai pu peu à peu reconstruire mon univers et retrouver une nouvelle stabilité.
+
 ### 📖 **Glossaire Geek et Tech**
 
 | 🛠️ Terme                    | 📝 Définition                                                                                                                                                                                                 |
